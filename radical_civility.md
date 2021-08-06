@@ -40,7 +40,7 @@ There are specific terms that are used repeatedly in this thesis that have been 
 
 Every effort needs two main tools to accomplish a goal: method and means. In an attempt to promote a useful view of society, the “method” will be the analytical approach and the “means” will be a rubric to evaluate it.
 
-[Analytical Approach](#markdown-header-analytical-approach)
+[Analytical Approach](#AA)
 
 The following is a graphical interpretation of the motivation behind the analytical approach. While the concept shown is only applicable on an individual level, it is intended to show that our understandings of reality are strengthened and solidified over time. This is not because of some underlying truth (which is neither knowable nor falsifiable), but because our initial beliefs and practical experiences dictate them. Understanding how this knowledge can be used to analyze a general community or identifying which ideas can be used to promote the community’s well being will be the remainder of this project.
 
@@ -167,7 +167,7 @@ and - of course - personal hypocrisy (pg 65).
 Thanks for taking an interest in this idea (pg 65), I hope this and the full text was worth your time and will help you with understanding the world in the future.
 
 
-# Analytical Approach
+# Analytical Approach<a name="AA"/> 
 
 It is ignorant to deny that current analytic systems are dependable and helpful, but it is also ignorant to think that they are complete. Brilliant minds are constantly building on these to fill in the gaps, but these adaptations will always be confined to the underlying assumptions. In an attempt to avoid this restriction, another approach will be taken here: building a new one from an axiomatic base. While this attempt can soundly be accused of hubris, I hope that the logic laid out will not be invalidated by that perspective. To accomplish this daunting task, the following approach will be used: identify generalizable commonalities for communities and use those postulates to deconstruct and rationalize the social effects caused by them.
 Axioms
