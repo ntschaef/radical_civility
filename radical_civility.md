@@ -18,7 +18,6 @@ While many may see the discussion as long and cumbersome, the purpose of the sum
 # Summary
 <ins>Global Definitions</ins>
 
-
 There are specific terms that are used repeatedly in this thesis that have been critiqued as “loaded” or “confusing” due to the way they are used in this paper. In an attempt to normalize the language, the major sections will list the relevant terms that have already been discussed. Below is the full list with definitions so the reader can be primed to look for them.
 
 - Legacy: motivator of the existential self identity which can be used as a vehicle for immortality
@@ -43,6 +42,8 @@ Every effort needs two main tools to accomplish a goal: method and means. In an 
 [Analytical Approach](#AA)
 
 The following is a graphical interpretation of the motivation behind the analytical approach. While the concept shown is only applicable on an individual level, it is intended to show that our understandings of reality are strengthened and solidified over time. This is not because of some underlying truth (which is neither knowable nor falsifiable), but because our initial beliefs and practical experiences dictate them. Understanding how this knowledge can be used to analyze a general community or identifying which ideas can be used to promote the community’s well being will be the remainder of this project.
+
+![](https://github.com/ntschaef/radical_civility/blob/master/Hourglass%20of%20Perception%20clean_alt.png "Hourglass of Perception")
 
 Clarifying remarks:
 The "Weight of Practicality" will alway move the hourglass to an “upright” position assuming no outside influence is applied using the lever
@@ -167,7 +168,7 @@ and - of course - personal hypocrisy (pg 65).
 Thanks for taking an interest in this idea (pg 65), I hope this and the full text was worth your time and will help you with understanding the world in the future.
 
 
-# Analytical Approach<a name="AA"/> 
+# Analytical Approach<a name="AA"/>
 
 It is ignorant to deny that current analytic systems are dependable and helpful, but it is also ignorant to think that they are complete. Brilliant minds are constantly building on these to fill in the gaps, but these adaptations will always be confined to the underlying assumptions. In an attempt to avoid this restriction, another approach will be taken here: building a new one from an axiomatic base. While this attempt can soundly be accused of hubris, I hope that the logic laid out will not be invalidated by that perspective. To accomplish this daunting task, the following approach will be used: identify generalizable commonalities for communities and use those postulates to deconstruct and rationalize the social effects caused by them.
 Axioms
