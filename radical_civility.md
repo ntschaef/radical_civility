@@ -1,558 +1,178 @@
-#Snapshot
-
-
+# Snapshot
 People are manifestations of practicality. Religion, science, culture, politics, identity, entertainment; all of it - when understood in the right context - are people trying to do what they think is the most practical and trying to convince others that what they do is right.
 
-#Intent
-
-
+# Intent
 This thesis will introduce a form of cultural analysis and one of many interpretations that can result from it. While a practical historical appeal will be mentioned, the foundation of the presentation will be a logical and philosophical inquiry. So the reader is asked to evaluate it - at least initially - on a basis of consistency. If the text can meet that expectation, then the aim (to offer an alternative perspective for appreciating reality) has been met. With this in mind, a successful read is not predicated on convincing the reader that this prescription is the only lens through which reality can be viewed, but instead on providing an additional lens that can be used to broaden the language for cultural discussion.
 
 The presentation will be laid out in the following sections:
 
-
-
-1. a summary of the paper
-2. description of the analytical approach
-3. description of a metric to judge culture
-4. what an ideal society would look like with that metric
-5. a means of promoting that ideal
-6. responses to expected critiques
+0. a summary of the paper
+1. description of the analytical approach
+2. description of a metric to judge culture
+3. what an ideal society would look like with that metric
+4. a means of promoting that ideal
+5. responses to expected critiques
 
 While many may see the discussion as long and cumbersome, the purpose of the summary (0) is to provide a concise description. While it is the hope that the reader will desire to see the full context of the ideas presented within the other sections, their main purpose is to clarify misunderstandings or questions that may arise in the summary.
 
-#Summary
+# Summary
+<ins>Global Definitions</ins>
 
-<span style="text-decoration:underline;">Global Definitions</span>
 
 There are specific terms that are used repeatedly in this thesis that have been critiqued as “loaded” or “confusing” due to the way they are used in this paper. In an attempt to normalize the language, the major sections will list the relevant terms that have already been discussed. Below is the full list with definitions so the reader can be primed to look for them.
 
-* Legacy: motivator of the existential self identity which can be used as a vehicle for immortality
-* Civil: inherent community approval
-* Radical: Motivating or acting in opposition to inherent community approval
-* Civil Radicality: expecting social critiques to be limited to civil action
-* Radical Civility: expecting a community to oppose inherent approval
-* Liberty: The ability to critique our own motivators and the truth of our perceived reality.
-* Alterable: in a variant state of being relative to the discussion
-* population: all objects (except for possibly a statistically insignificant set of outliers) in a system which are alterable
-* Person: a member of the population that fulfils the axioms for life
-* Element: non-person member of the population that can be added or removed by will
-* Absolute essential: an element that is required for a person to live
-* Excess: an element that is not an absolute essential lacking the capability to be distributed with all persons
-* Normality: the minimum expected state of all persons when excluding excess
-* Relative essential: an element that is required to gain normality
-* Harm: causing normality to be unobtainable
-* Tragic: increases both normality and harm
+- Legacy: motivator of the existential self identity which can be used as a vehicle for immortality
+- Civil: inherent community approval
+- Radical: Motivating or acting in opposition to inherent community approval
+- Civil Radicality: expecting social critiques to be limited to civil action
+- Radical Civility: expecting a community to oppose inherent approval
+- Liberty: The ability to critique our own motivators and the truth of our perceived reality.
+- Alterable: in a variant state of being relative to the discussion
+- Population: all objects (except for possibly a statistically insignificant set of outliers) in a system which are alterable
+- Person: a member of the population that fulfils the axioms for life
+- Element: non-person member of the population that can be added or removed by will
+- Absolute essential: an element that is required for a person to live
+- Excess: an element that is not an absolute essential lacking the capability to be distributed with all persons
+- Normality: the minimum expected state of all persons when excluding excess
+- Relative essential: an element that is required to gain normality
+- Harm: causing normality to be unobtainable
+- Tragic: increases both normality and harm
 
 Every effort needs two main tools to accomplish a goal: method and means. In an attempt to promote a useful view of society, the “method” will be the analytical approach and the “means” will be a rubric to evaluate it.
 
-_Analytical Approach[pg 11]_
+[Analytical Approach](#markdown-header-analytical-approach)
 
 The following is a graphical interpretation of the motivation behind the analytical approach. While the concept shown is only applicable on an individual level, it is intended to show that our understandings of reality are strengthened and solidified over time. This is not because of some underlying truth (which is neither knowable nor falsifiable), but because our initial beliefs and practical experiences dictate them. Understanding how this knowledge can be used to analyze a general community or identifying which ideas can be used to promote the community’s well being will be the remainder of this project.
 
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
 Clarifying remarks:
+The "Weight of Practicality" will alway move the hourglass to an “upright” position assuming no outside influence is applied using the lever
+Outside influences do not necessarily turn the hourglass and often keep it “upright”, reinforcing the solidification of the reality
 
+An analytical system is only valid as long as it can be shown to be amoral and unbiased with regards to the environment it is evaluating. Since the chosen environment in question (community) can be generalized as any subset of living things, it is only appropriate to force the axioms of the analysis to align with the common properties which all life shares (pg 11). For the sake of this paper, “living thing” will be defined as “the embodiment of a collection of impulses that developed (through evolution) the ability to compete for survival”, and the direct fallout will be that only two common traits can be identified:
 
+Preservation of Legacy (Self Preservation) (pg 11)
+Perception Bias (Limited Knowledge) (pg 12)
 
-* The "Weight of Practicality" will alway move the hourglass to an “upright” position assuming no outside influence is applied using the lever
-* Outside influences do not necessarily turn the hourglass and often keep it “upright”, reinforcing the solidification of the reality
+Where legacy necessitates a community to preserve it, perception bias will cause a community to partition due to individual legacy promotion beyond that of others’. This dueling foundation is at the core of legacy analysis (the name of the analytical system that is being presented). Understanding the chaotic dynamics of how a community will determine that one legacy can coexist while another is destructive is impossible for any individual (pg 13).  It is therefore necessary to discuss the interaction using three independent types of consent within a predetermined population:
 
-An analytical system is only valid as long as it can be shown to be amoral and unbiased with regards to the environment it is evaluating. Since the chosen environment in question (community) can be generalized as any subset of living things, it is only appropriate to force the axioms of the analysis to align with the common properties which all life shares (
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 11"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 11](#heading=h.zf1702yfgdp4)). For the sake of this paper, “living thing” will be defined as “the embodiment of a collection of impulses that developed (through evolution) the ability to compete for survival”, and the direct fallout will be that only two common traits can be identified**:**
-
-
-
-* Preservation of Legacy (Self Preservation) (
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 11"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 11](#heading=h.y5uml2xdd0ah))
-* Perception Bias (Limited Knowledge) (
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 12"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 12](#heading=h.sdi6ofb3rrvv))
-
-Where legacy necessitates a community to preserve it, perception bias will cause a community to partition due to individual legacy promotion beyond that of others’. This dueling foundation is at the core of legacy analysis (the name of the analytical system that is being presented). Understanding the chaotic dynamics of how a community will determine that one legacy can coexist while another is destructive is impossible for any individual (
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 13"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 13](#heading=h.gruf5pgb99c0)).  It is therefore necessary to discuss the interaction using three independent types of consent within a predetermined population:
-
-
-
-* Civil - the self promoted cultural institutions and mythoi that promote historically approved and defended legacies (
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 14"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 14](#heading=h.a4p3tynr8bfr))
-* Radical - a community critique stating “part of the civil consent hinders less traditional legacies” (
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 15"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 15](#heading=h.hb8hfsvizvq2))
-* Constructed - the community’s conclusion on what legacies are acceptable and which must be excluded (
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 16"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 16](#heading=h.xfz6mec8nril))
+Civil - the self promoted cultural institutions and mythoi that promote historically approved and defended legacies (pg 14)
+Radical - a community critique stating “part of the civil consent hinders less traditional legacies” (pg 15)
+Constructed - the community’s conclusion on what legacies are acceptable and which must be excluded (pg 16)
 
 While one may desire to look at these various consents as strictly opposing sub-communities, it is important to understand that they are not. Civil consent (which can be shortened to “civility”, “tradition”, “orthodoxy”, etc) is inherent to any community, and will always exist passively. In most cases, civility’s acceptance is often confused with the nature of reality itself. Radical consent - by contrast - is an active fight consisting of smaller communities that have their own civility. Constructed consent is a fluid discussion that can only truly be resolved (if that is possible at all) by the community as a whole.
 
-Communities are dependent on civility’s protection from both historic and current threats, so - regardless of how many agree with a critique - radical consent will provoke pushback. It should be obvious that an appeal to the culturally dictated actions to counter a radical method of argumentation is circular. This appeal to civility to condemn a critique of civility will be referenced as utilizing “civil radicality” or demanding others to be “civilly radical” (
+Communities are dependent on civility’s protection from both historic and current threats, so - regardless of how many agree with a critique - radical consent will provoke pushback. It should be obvious that an appeal to the culturally dictated actions to counter a radical method of argumentation is circular. This appeal to civility to condemn a critique of civility will be referenced as utilizing “civil radicality” or demanding others to be “civilly radical” (pg 17). While rationally vapid, those that fear their legacy’s rejection by an uninfluenced constructed consent do not have an alternative defense. In contrast, the radical consent will desire to tear down the specific civility in question. This is not to promote their own legacies (although the radical communities’ civilities will likely demand that), but because they trust the constructed consent will determine the best environment for the community once the civil dictation has been negated. The general desire to institutionalize a rejection of civility is called “radical civility” (pg 18).  The thesis is named after this concept because it is the practical implementation which references both legacy analysis and the upcoming metric by which we will evaluate communities.
 
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 17"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+Applying these terms to practical scenarios is helpful in both constructing an understanding of how the theory can be utilized and identifying how the terms may differ from their common usage (pg 20). While these examples attempt to be accurate, the purpose of this section is to show how the analysis can be carried out, not to rewrite reality. The more basic examples (which are included in the full text) show that - due to the axioms on which it is built - legacy analysis applies to communities of cells just as easily as entire nations (pg 20). Summary analyses of the more complex communities are provided below (pg 24):
 
-[pg 17](#heading=h.7hb9ylytm54g)). While rationally vapid, those that fear their legacy’s rejection by an uninfluenced constructed consent do not have an alternative defense. In contrast, the radical consent will desire to tear down the specific civility in question. This is not to promote their own legacies (although the radical communities’ civilities will likely demand that), but because they trust the constructed consent will determine the best environment for the community once the civil dictation has been negated. The general desire to institutionalize a rejection of civility is called “radical civility” (
+The USSR (pg 24)
+Due to the discontent of the citizens within imperial Russia, the Soviet Union was formed on the premise that the Marxian philosophy “private ownership of production is harmful”. When combined with the underlying legacy of dictatorship that the Romanov Dynasty embedded in the culture, it isn’t hard to see that the Bolshevik Revolution eventually created a central power that believed itself to represent the people and took it upon itself to suppress their enemies (the capitalists and oligarchs). This of course had no alternative than to create a civility that reinforced the mythos of “state above the individual”. In turn, the state necessitated promotion above other ideologies lest other legacies be considered, so external influence was restricted as to not undermine the declared mythos. The limited resources resulting from the lack of trade both inhibited the constructed consent from validating any form of radical critique and also empowered the need for civil protection and distribution of goods. Combined, these two forces eradicated the appeal to radical civility, leaving only the expectation for the populace to be civilly radical.
 
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 18"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+If this went on indefinitely, there may not have been an issue for the country, but Stalin died and with him the strong civility he personified. This allowed the critiques to manifest into radical consent. Constructed consent (having not been practiced) could not keep up with the radical critiques that were spawning in different communities and the country splintered slightly. When eventually radical civility was applied by allowing interdependence on other countries to meet the needs expressed by the critiques, the mythos of “state strength and success independent of capitalists” (which the already weakened legacy was heavily dependent on) was undermined and the civility fractured into smaller conflicting communities dissolving the USSR.
 
-[pg 18](#heading=h.2ylszj2qcdcx)).  The thesis is named after this concept because it is the practical implementation which references both legacy analysis and the upcoming metric by which we will evaluate communities.
+Nazi (pg 25)
 
-Applying these terms to practical scenarios is helpful in both constructing an understanding of how the theory can be utilized and identifying how the terms may differ from their common usage (
+Due to the blame the Central Powers incurred after WWI, Germany was both materially and existentially devastated. While Europe was striving to disperse power through democracy and the ideal of socialism, the inability to retain national essentials caused an increase in protectionism and an appeal to a strong civility. These two legacies were in direct contrast as Germany rebuilt it’s national legacy over the next 20 years. It is unsurprising the favor of democracy within the constructed consent weakened and - alongside it - the social cohesion. The result: few who demanded assimilation to their own legacies gave a purpose to the growing population that were disillusioned with the mythos of national pride they were indoctrinated under.
 
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 20"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+It's important to note that the typical extremism associated with fascism (victim complex for the civil, enemies being weak and strong, anti-intellectualism, etc) can all be understood when considering the creation of the absurd mythos that is necessary to defend it. An appeal to deservedness requires a rejection of expertise in favor of a fictional past that supports the hyper specific legacy. Of course this past was both superior to all others, but also able to be defeated by the corruption that came with the infestation of inferior legacies (which is easiest to identify using physical traits). The mythos has the added bonus of blaming other cultures for personal failings since the fascist cannot partake in the utopian promises that came with the fictitious ideal; thus there is a desire to revert to this previous illusion in spite of and often to the detriment of all others.
 
-[pg 20](#heading=h.rywvav4t0jcb)). While these examples attempt to be accurate, the purpose of this section is to show how the analysis can be carried out, not to rewrite reality. The more basic examples (which are included in the full text) show that - due to the axioms on which it is built - legacy analysis applies to communities of cells just as easily as entire nations (
+Once in power, the Nazi civility demanded subserviance from the rest of the nation. Those that could not or would not abide by the demand were used for slave labor. This both excluded any radical considerations from the constructed consent and gave the impression that - due to increased production and decreased population - the civility had successfully increased the living conditions. With an inability to empower the unheard radical voices and the seeming increase in comfort, constructed consent further justified and empowered the new civility and the mythos that was generating around it, ensuring that civil radicality was absolute. The change from geographical boundaries to ideological and the demand for assimilation naturally caused the Nazis to overlap with other civilities that continued to define themselves with borders. This overlap isn’t necessarily an issue, but the exclusive ideology and unique cultural mythos of the Nazis directly opposed those they were infringing on. The clash of overlapping contradictory civilities inevitably became a war.
 
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 20"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+The USA (pg 27)
+The founding of the US government designated a mythos of individual freedoms and egalitarianism along with an institutionalized diversity of rule which was an ideal setup for radical civility. This was all inverted by hypocritically exercising a practical empowerment of select legacies to the detriment of a second class majority. The empowered individualism was allowed to claim moral superiority while simply engaging in basic cultural authoritarianism that became synonymous with the US identity. Of course the mythos adapted to justify this, declaring “individual empowerment is possible for anyone, so support of a group to the detriment of an (empowered) individual is harmful and should be ideologically invalid if not outright treasonous”.
 
-[pg 20](#heading=h.8k13l343isj6)). Summary analyses of the more complex communities are provided below (
+The allure of personal autonomy for an incoming populace generated an initial amplification for civil consent as the country grew (first geographically then strictly imperialistically). Even after the experiential realization that the mythos was potentially a mirage, the anecdotal success stories were enough to sustain the illusion for the indoctrinated. This combined with the (erroneous) denial of a civil authority, a complete undermining of direct criticism aimed at the civil structures (which were increasingly conflated with reality itself) was established. Because of the invalidation repeatedly met when appealing to the influenced constructed consent, any radicality was forced to focus on the local civilities leaving the national framework unopposed.
 
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 24"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+There were of course instances when the civil structures have been identified as so oppressive that a radical critique generated a large community despite their internal disagreements. In this case, out of self preservation, the US civility briefly acknowledged small aspects of the mythos that were identified as problematic. Ultimately this only had limited impact due to the foundational legacy of individualism: non-individuals could not be the cause of the problem, so instead a new aspect of the mythos - a villain - was established that could be blamed as the initial instigator. This has always had the result of redividing the radical community along new lines: the reduced radical consent that wasn’t satisfied, the legacies the new mythos protected, and the new “villains” that were sacrificed (all of which reinitiated the typical infighting). In general, this has the effect of incremental empowerment, but only insofar that it could not compete with the continuous promotion that civility grants to the historically empowered.
 
-[pg 24](#heading=h.wd4rzylkd14m)):
+Unless the cornerstone of individuality is suppressed, the expectation is that success will continue to be based strictly on the value of the individual in spite of the system that is influencing them. Those in power will continue to feel they are deserving of it. Those without will continue to be marginally promoted if not outright ignored. The imbalance will eventually make it relatively impossible for those not in power to construct (much less preserve) any legacy of their own. The select few retaining power will institutionalize their legacies to such an extent that the general majority will (with no alternative) succumb to internalizing them. For these people, the legacy and mythos supplied by the empowered will be indistinguishable from reality itself creating a neo-feudalism. As this happens, those that have the most influence over the legacy will rightfully believe that they have supernatural influence and - with the support of the growing civility - will force their legacy as far as their imagination will allow it. 
 
+Optimization (pg 30)
 
-    <span style="text-decoration:underline;">The USSR ([pg 24](#bookmark=id.8furjptnuqvf))</span>
-
-
-    Due to the discontent of the citizens within imperial Russia, the Soviet Union was formed on the premise that the Marxian philosophy “private ownership of production is harmful”. When combined with the underlying legacy of dictatorship that the Romanov Dynasty embedded in the culture, it isn’t hard to see that the Bolshevik Revolution eventually created a central power that believed itself to represent the people and took it upon itself to suppress their enemies (the capitalists and oligarchs). This of course had no alternative than to create a civility that reinforced the mythos of “state above the individual”. In turn, the state necessitated promotion above other ideologies lest other legacies be considered, so external influence was restricted as to not undermine the declared mythos. The limited resources resulting from the lack of trade both inhibited the constructed consent from validating any form of radical critique and also empowered the need for civil protection and distribution of goods. Combined, these two forces eradicated the appeal to radical civility, leaving only the expectation for the populace to be civilly radical.
-
-
-    If this went on indefinitely, there may not have been an issue for the country, but Stalin died and with him the strong civility he personified. This allowed the critiques to manifest into radical consent. Constructed consent (having not been practiced) could not keep up with the radical critiques that were spawning in different communities and the country splintered slightly. When eventually radical civility was applied by allowing interdependence on other countries to meet the needs expressed by the critiques, the mythos of “state strength and success independent of capitalists” (which the already weakened legacy was heavily dependent on) was undermined and the civility fractured into smaller conflicting communities dissolving the USSR.
-
-
-    <span style="text-decoration:underline;">Nazi ([pg 25](#bookmark=id.6n3e1e5ttnmv))</span>
-
-
-    Due to the blame the Central Powers incurred after WWI, Germany was both materially and existentially devastated. While Europe was striving to disperse power through democracy and the ideal of socialism, the inability to retain national essentials caused an increase in protectionism and an appeal to a strong civility. These two legacies were in direct contrast as Germany rebuilt it’s national legacy over the next 20 years. It is unsurprising the favor of democracy within the constructed consent weakened and - alongside it - the social cohesion. The result: few who demanded assimilation to their own legacies gave a purpose to the growing population that were disillusioned with the mythos of national pride they were indoctrinated under.
-
-
-    It's important to note that the typical extremism associated with fascism (victim complex for the civil, enemies being weak and strong, anti-intellectualism, etc) can all be understood when considering the creation of the absurd mythos that is necessary to defend it. An appeal to deservedness requires a rejection of expertise in favor of a fictional past that supports the hyper specific legacy. Of course this past was both superior to all others, but also able to be defeated by the corruption that came with the infestation of inferior legacies (which is easiest to identify using physical traits). The mythos has the added bonus of blaming other cultures for personal failings since the fascist cannot partake in the utopian promises that came with the fictitious ideal; thus there is a desire to revert to this previous illusion in spite of and often to the detriment of all others.
-
-
-    Once in power, the Nazi civility demanded subserviance from the rest of the nation. Those that could not or would not abide by the demand were used for slave labor. This both excluded any radical considerations from the constructed consent and gave the impression that - due to increased production and decreased population - the civility had successfully increased the living conditions. With an inability to empower the unheard radical voices and the seeming increase in comfort, constructed consent further justified and empowered the new civility and the mythos that was generating around it, ensuring that civil radicality was absolute. The change from geographical boundaries to ideological and the demand for assimilation naturally caused the Nazis to overlap with other civilities that continued to define themselves with borders. This overlap isn’t necessarily an issue, but the exclusive ideology and unique cultural mythos of the Nazis directly opposed those they were infringing on. The clash of overlapping contradictory civilities inevitably became a war.
-
-
-    <span style="text-decoration:underline;">The USA ([pg 27](#bookmark=id.vgpm1aqjnj7p))</span>
-
-
-    The founding of the US government designated a mythos of individual freedoms and egalitarianism along with an institutionalized diversity of rule which was an ideal setup for radical civility. This was all inverted by hypocritically exercising a practical empowerment of select legacies to the detriment of a second class majority. The empowered individualism was allowed to claim moral superiority while simply engaging in basic cultural authoritarianism that became synonymous with the US identity. Of course the mythos adapted to justify this, declaring “individual empowerment is possible for anyone, so support of a group to the detriment of an (empowered) individual is harmful and should be ideologically invalid if not outright treasonous”.
-
-
-    The allure of personal autonomy for an incoming populace generated an initial amplification for civil consent as the country grew (first geographically then strictly imperialistically). Even after the experiential realization that the mythos was potentially a mirage, the anecdotal success stories were enough to sustain the illusion for the indoctrinated. This combined with the (erroneous) denial of a civil authority, a complete undermining of direct criticism aimed at the civil structures (which were increasingly conflated with reality itself) was established. Because of the invalidation repeatedly met when appealing to the influenced constructed consent, any radicality was forced to focus on the local civilities leaving the national framework unopposed.
-
-
-    There were of course instances when the civil structures have been identified as so oppressive that a radical critique generated a large community despite their internal disagreements. In this case, out of self preservation, the US civility briefly acknowledged small aspects of the mythos that were identified as problematic. Ultimately this only had limited impact due to the foundational legacy of individualism: non-individuals could not be the cause of the problem, so instead a new aspect of the mythos - a villain - was established that could be blamed as the initial instigator. This has always had the result of redividing the radical community along new lines: the reduced radical consent that wasn’t satisfied, the legacies the new mythos protected, and the new “villains” that were sacrificed (all of which reinitiated the typical infighting). In general, this has the effect of incremental empowerment, but only insofar that it could not compete with the continuous promotion that civility grants to the historically empowered.
-
-
-    Unless the cornerstone of individuality is suppressed, the expectation is that success will continue to be based strictly on the value of the individual in spite of the system that is influencing them. Those in power will continue to feel they are deserving of it. Those without will continue to be marginally promoted if not outright ignored. The imbalance will eventually make it relatively impossible for those not in power to construct (much less preserve) any legacy of their own. The select few retaining power will institutionalize their legacies to such an extent that the general majority will (with no alternative) succumb to internalizing them. For these people, the legacy and mythos supplied by the empowered will be indistinguishable from reality itself creating a neo-feudalism. As this happens, those that have the most influence over the legacy will rightfully believe that they have supernatural influence and - with the support of the growing civility - will force their legacy as far as their imagination will allow it. 
-
-_Optimization (
-
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 30"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 30](#heading=h.49zpxukjjsjc))_
-
-Up to this point, there has been an attempt to remain amoral, but a metric necessitates values. Considering that “optimize” could mean anything from “ensure the continuation of civility regardless of those that are harmed” to “ensure that all legacies are equally made impossible”, any virtues based on a different analysis could cause this thesis to have horrendous outcomes. To avoid this, a value system will be derived with the goal of remaining unbiased (
-
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 30"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 30](#heading=h.m0ep2vftzj39)).
+Up to this point, there has been an attempt to remain amoral, but a metric necessitates values. Considering that “optimize” could mean anything from “ensure the continuation of civility regardless of those that are harmed” to “ensure that all legacies are equally made impossible”, any virtues based on a different analysis could cause this thesis to have horrendous outcomes. To avoid this, a value system will be derived with the goal of remaining unbiased (pg 30).
 
 When deciding which system to use, the following principles were appealed to:
 
+Moral conclusions can not claim cultural independence, therefore a predetermined scope will be required before establishing any evaluation (pg 31)
+Any system (moral or not) that is inconsistent will fail, therefore the system will not be reactive but constructed (pg 31)
 
+With these in mind, the system selected (called relative normality) can be summarized with the phrase “individual comfort ought never detract from community comfort”. There is always a risk that practical needs will always adapt a metric to its cultural and mythological truths (pg 32). In this light, while the motto may be useful in common discussion, it cannot stand up to scrutiny that will inevitably appear, so a more detailed description of relative normality is as follows:
 
-* Moral conclusions can not claim cultural independence, therefore a predetermined scope will be required before establishing any evaluation (
+One ought not to critique people for making tragic decisions
+One ought to critique tragic situations (pg 33)
+If situations are not described here, one ought not to declare that someone ought or ought not to do them (pg 34)
+One ought to distribute relative essentials unless it does harm (pg 34)
+One ought to remove elements which cause strict harm (pg 35)
+One ought to use excess to increase normality (pg 35)
+One ought not to demand or strive to gain excess for one's legacy (pg 35)
+One ought to instruct the population what they ought to and what they ought not do (pg 36)
 
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 31"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+There are some practical repercussions (pg 36) worth pointing out:
+This rejects the classical notion that absolute essentials are deserved. While they are not excess by definition, they may not be relatively essential and attempting to gain these is - at worst - morally tragic (pg 36).
+Temporary hierarchies are expected to distribute relative essentials (both material and non material), normalize absolute essentials, and to negotiate excess (pg 37)
+The scope of the conversation must always dictate the normality being considered (pg 38)
+Elements are not only material. Consider the relative essential “respect”. (pg 38)
 
-[pg 31](#heading=h.bbqfj5l50jpl))
-* Any system (moral or not) that is inconsistent will fail, therefore the system will not be reactive but constructed (
+Ideal Society (pg 39)
 
-<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 31"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+Within this value system, an optimized society would dictate that civility fundamentally would consider community legacies, even - and especially - the ones spawning radical consent. This is synonymous with radical civility (pg 39). Civil consent will of course exist inherently even if practicing radical civility at all times. Whether due to unchallenged assumptions or an inherent desire to be protected, we all appeal to civility for community cohesion (pg 40). That said, the explicit cultural infrastructures expected in an ideal society is limited to the following necessities:
 
-[pg 31](#heading=h.k1cpll8o72gs))
+Accurate accounting of resources within the population (pg 41)
+Accurate descriptions of the different subcommunities’ status (pg 41)
+Current relations with external civilities (pg 42)
 
-With these in mind, the system selected (called relative normality) can be summarized with the phrase “individual comfort ought never detract from community comfort”. There is always a risk that practical needs will always adapt a metric to its cultural and mythological truths (
+While statistical and systematic distribution of information necessitates a dependency on civility, the ability for constructed consent to thrive also requires trust in the knowledge they have. It is therefore prescribed that solutions to cultural conflicts do not rely on civility for solutions, but radicality and constructed consent (pg 43). Expectations that communities cultivate an atmosphere of cooperation will promote social cohesion and normalize inclusivity.  By extension this will also provide a check for the civil responsibilities listed above (pg 44). As with all latent civilities, there is a risk of both legacy promotion and exploitation which will be unintentionally promoted by the constructed consent. To combat these, it is necessary for civil responsibilities to be partitioned with preestablished “retirement” dates based on both time and trust (pg 44) in addition to promotion of subnormal communities which can correct systematic harms that are unknown to others (pg 45).
 
-<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 32"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+While it is true that everyone is influenced by civility, with most there is the ability to critique new civilities with pre-existing ones; this is not true for children. Therefore - for the sake of radical civility - it is crucial to provide children with tools that will allow them the most liberty in their lives via education (pg 46). The following topics have been identified as necessary to fulfil that goal:
 
-[pg 32](#heading=h.baxidvc1wvdo)). In this light, while the motto may be useful in common discussion, it cannot stand up to scrutiny that will inevitably appear, so a more detailed description of relative normality is as follows:
+Expanding Language: necessary for considering ideas beyond personal experience and perception bias (pg 47)
+Epistemology: necessary for being able to reflect on and critique personal perception bias from an external point of view (pg 47)
+Sociology: necessary for understanding the sources of legacy (pg 47)
+Self reflection: necessary for understanding the legacies that influence us (pg 48)
+Discovery: necessary for evaluating, adopting, and expanding other legacies (pg 48)
 
+As a final note: it should also be mentioned that even with all the previous prescriptions for utopia, there is still a threat of civility stagnating due to tribalism. For this reason there is a need to constantly push the ideological boundaries of the community for the sake of cooperating with and eventually including others that we fear (pg 49).
 
-
-1. One ought not to critique people for making tragic decisions
-2. One ought to critique tragic situations (
-
-<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 33"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 33](#heading=h.kztan1a1rhrt))
-3. If situations are not described here, one ought not to declare that someone ought or ought not to do them (
-
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 34"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 34](#heading=h.dq4m586tpr9b))
-4. One ought to distribute relative essentials unless it does harm (
-
-<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 34"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 34](#heading=h.qpe4jlmacomr))
-5. One ought to remove elements which cause strict harm (
-
-<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 35"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 35](#heading=h.vn1zronzilrh))
-6. One ought to use excess to increase normality (
-
-<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 35"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 35](#heading=h.f1zyo57okwvk))
-7. One ought not to demand or strive to gain excess for one's legacy (
-
-<p id="gdcalert25" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 35"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert26">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 35](#heading=h.1pu3jd7lmpdn))
-8. One ought to instruct the population what they ought to and what they ought not do (
-
-<p id="gdcalert26" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 36"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert27">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 36](#heading=h.akvxlyvdcnb7))
-
-There are some practical repercussions (
-
-<p id="gdcalert27" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 36"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert28">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 36](#heading=h.8x5ccdz0rfee)) worth pointing out:
-
-
-
-* This rejects the classical notion that absolute essentials are deserved. While they are not excess by definition, they may not be relatively essential and attempting to gain these is - at worst - morally tragic (
-
-<p id="gdcalert28" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 36"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert29">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 36](#heading=h.jhelsm4055b)).
-* Temporary hierarchies are expected to distribute relative essentials (both material and non material), normalize absolute essentials, and to negotiate excess (
-
-<p id="gdcalert29" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 37"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert30">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 37](#heading=h.pmli4n8e4l4v))
-* The scope of the conversation must always dictate the normality being considered (
-
-<p id="gdcalert30" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 38"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert31">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 38](#heading=h.uc9yt452ijd7))
-* Elements are not only material. Consider the relative essential “respect”. (
-
-<p id="gdcalert31" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 38"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert32">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 38](#heading=h.nsri9q7lg255))
-
-_Ideal Society (
-
-<p id="gdcalert32" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 39"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert33">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 39](#heading=h.b8490qzeb8t3))_
-
-Within this value system, an optimized society would dictate that civility fundamentally would consider community legacies, even - and especially - the ones spawning radical consent. This is synonymous with radical civility (
-
-<p id="gdcalert33" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 39"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert34">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 39](#heading=h.1w1d9n3uudlq)). Civil consent will of course exist inherently even if practicing radical civility at all times. Whether due to unchallenged assumptions or an inherent desire to be protected, we all appeal to civility for community cohesion (
-
-<p id="gdcalert34" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 40"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert35">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 40](#heading=h.1w1d9n3uudlq)). That said, the explicit cultural infrastructures expected in an ideal society is limited to the following necessities:
-
-
-
-* Accurate accounting of resources within the population (
-
-<p id="gdcalert35" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 41"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert36">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 41](#heading=h.wqdnunylfroo))
-* Accurate descriptions of the different subcommunities’ status (
-
-<p id="gdcalert36" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 41"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert37">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 41](#heading=h.wqdnunylfroo))
-* Current relations with external civilities (
-
-<p id="gdcalert37" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 42"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert38">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 42](#heading=h.ne6go9gc633n))
-
-While statistical and systematic distribution of information necessitates a dependency on civility, the ability for constructed consent to thrive also requires trust in the knowledge they have. It is therefore prescribed that solutions to cultural conflicts do not rely on civility for solutions, but radicality and constructed consent (
-
-<p id="gdcalert38" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 43"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert39">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 43](#heading=h.cdgu4nhu9al3)). Expectations that communities cultivate an atmosphere of cooperation will promote social cohesion and normalize inclusivity.  By extension this will also provide a check for the civil responsibilities listed above (
-
-<p id="gdcalert39" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 44"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert40">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 44](#heading=h.pujcbacwc3je)). As with all latent civilities, there is a risk of both legacy promotion and exploitation which will be unintentionally promoted by the constructed consent. To combat these, it is necessary for civil responsibilities to be partitioned with preestablished “retirement” dates based on both time and trust (
-
-<p id="gdcalert40" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 44"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert41">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 44](#heading=h.t3mentfqfdyz)) in addition to promotion of subnormal communities which can correct systematic harms that are unknown to others (
-
-<p id="gdcalert41" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 45"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert42">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 45](#heading=h.ovglz7kg0d6s)).
-
-While it is true that everyone is influenced by civility, with most there is the ability to critique new civilities with pre-existing ones; this is not true for children. Therefore - for the sake of radical civility - it is crucial to provide children with tools that will allow them the most liberty in their lives via education (
-
-<p id="gdcalert42" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 46"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert43">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 46](#heading=h.ppqqgm3p1h94)). The following topics have been identified as necessary to fulfil that goal:
-
-
-
-* Expanding Language: necessary for considering ideas beyond personal experience and perception bias (
-
-<p id="gdcalert43" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 47"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert44">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 47](#heading=h.cp47gbwvhzoc))
-* Epistemology: necessary for being able to reflect on and critique personal perception bias from an external point of view (
-
-<p id="gdcalert44" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 47"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert45">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 47](#heading=h.3itt7tq30ub3))
-* Sociology: necessary for understanding the sources of legacy (
-
-<p id="gdcalert45" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 47"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert46">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 47](#heading=h.ijhxwca6k277))
-* Self reflection: necessary for understanding the legacies that influence us (
-
-<p id="gdcalert46" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 48"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert47">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 48](#heading=h.ny0u8udflska))
-* Discovery: necessary for evaluating, adopting, and expanding other legacies (
-
-<p id="gdcalert47" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 48"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert48">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 48](#heading=h.sqays6b2rm5j))
-
-As a final note: it should also be mentioned that even with all the previous prescriptions for utopia, there is still a threat of civility stagnating due to tribalism. For this reason there is a need to constantly push the ideological boundaries of the community for the sake of cooperating with and eventually including others that we fear (
-
-<p id="gdcalert48" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 49"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert49">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 49](#heading=h.8s08acvj5yqi)).
-
-_Implementation (
-
-<p id="gdcalert49" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 50"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert50">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 50](#heading=h.a9d24tkkqajl))_
+Implementation (pg 50)
 
 It must be admitted that believing all cultures can reach optimization as described above is idealistic. Yet - even understanding that limitation - there is no harm in trying to achieve it with a non-aggressive approach. When attempting this, the natural procession already alluded to must attempted if there is any hope of success:
 
+Identify the conversation and the community being considered (pg 50)
+Empower and understand others using cooperation (pg 51); this will
+Establish normality (pg 51)
+Identify those unwilling to participate in radical civility (pg 52)
+Identify external communities for future growth (pg 52)
+Enforce radical civility by
+Limiting civilities that are harmful (pg 53) which requires
+Deconstructing and replacing exclusive mythoi (pg 54)
+Redefining cultural success (pg 55)
+Empowering radical consent (pg 55)
 
+If this is done organically, the constant reduction of civility and promotion of the radical can only result in a powerful community consciousness and constructed consent (pg 56). This community cohesion will dominate any attempt to ideologically dictate legacy by use of exclusive external authoritarian civility. The only true threat then is if the community is forced to divide via metaphysical oppression (be it economical, physical, or other) which ought to be universally opposed by anyone believing in radical civility (pg 56).
 
-1. Identify the conversation and the community being considered (
+Some practical examples of how this may be implemented is included in the full text (pg 57).
 
-<p id="gdcalert50" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 50"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert51">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 50](#heading=h.ivdsgp5uh3rr))
-2. Empower and understand others using cooperation (
-
-<p id="gdcalert51" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 51"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert52">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 51](#heading=h.m75r85tk6zzb)); this will
-    1. Establish normality (
-
-<p id="gdcalert52" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 51"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert53">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 51](#heading=h.xvuwnmf0mrzy))
-    2. Identify those unwilling to participate in radical civility (
-
-<p id="gdcalert53" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 52"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert54">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 52](#heading=h.ohfxwxr3d9n6))
-    3. Identify external communities for future growth (
-
-<p id="gdcalert54" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 52"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert55">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 52](#heading=h.bh39wgj5e31z))
-3. Enforce radical civility by
-    4. Limiting civilities that are harmful (
-
-<p id="gdcalert55" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 53"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert56">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 53](#heading=h.2seoltw2gqkx)) which requires
-        1. Deconstructing and replacing exclusive mythoi (
-
-<p id="gdcalert56" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 54"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert57">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 54](#heading=h.zgd5fofxuqyt))
-        2. Redefining cultural success (
-
-<p id="gdcalert57" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 55"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert58">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 55](#heading=h.lvgg37ty608s))
-    5. Empowering radical consent (
-
-<p id="gdcalert58" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 55"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert59">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 55](#heading=h.g25hoht9e7bh))
-
-If this is done organically, the constant reduction of civility and promotion of the radical can only result in a powerful community consciousness and constructed consent (
-
-<p id="gdcalert59" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 56"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert60">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 56](#heading=h.auf0wcx8yuzg)). This community cohesion will dominate any attempt to ideologically dictate legacy by use of exclusive external authoritarian civility. The only true threat then is if the community is forced to divide via metaphysical oppression (be it economical, physical, or other) which ought to be universally opposed by anyone believing in radical civility (
-
-<p id="gdcalert60" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 56"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert61">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 56](#heading=h.bjugrjo2qib5)).
-
-Some practical examples of how this may be implemented is included in the full text (
-
-<p id="gdcalert61" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 57"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert62">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 57](#heading=h.4egiilup5k0u)).
-
-_Anticipated Critiques (
-
-<p id="gdcalert62" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 59"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert63">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 59](#heading=h.om9y3jtmmn35))_
+Anticipated Critiques (pg 59)
 
 While the hope is that everything presented here is agreeable, it would be ignorant to ignore the glaring contrast to many existing ideas. To anticipate these critiques, included in the full text is a list of responses to many general oppositions:
 
+axiomatic differences (pg 60) [e.g. objective virtues (pg 60), civil radicality (pg 60)]; 
+human nature (pg 61) [e.g. free will (pg 61), individualism (pg 61), inalienable rights (pg 61), mob mentality (pg 62)];
+different premises (pg 62) [e.g. materialism (pg 62), religion (pg 63)];
+practical success (pg 63) [e.g. propaganda vs reality vs truth (pg 63)];
+different analyses (pg 63) [e.g. material analysis (pg 63), consumerism (pg 64)]; 
+utility monsters (pg 64) [e.g. insanity (pg 64), fascism (pg 65)];
+and - of course - personal hypocrisy (pg 65).
+
+Thanks for taking an interest in this idea (pg 65), I hope this and the full text was worth your time and will help you with understanding the world in the future.
 
 
-* axiomatic differences (
-
-<p id="gdcalert63" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 60"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert64">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 60](#heading=h.ngnzmk270i7b)) [e.g. objective virtues (
-
-<p id="gdcalert64" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 60"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert65">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 60](#heading=h.3zhqw3tbu5rq)), civil radicality (
-
-<p id="gdcalert65" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 60"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert66">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 60](#heading=h.rjup9vsyi2oo))]; 
-* human nature (
-
-<p id="gdcalert66" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 61"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert67">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 61](#heading=h.c81gz6eroxp6)) [e.g. free will (
-
-<p id="gdcalert67" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 61"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert68">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 61](#heading=h.qsolgrmxzdi2)), individualism (
-
-<p id="gdcalert68" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 61"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert69">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 61](#heading=h.hgysz5ucwfey)), inalienable rights (
-
-<p id="gdcalert69" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 61"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert70">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 61](#heading=h.a23is2wq2zgr)), mob mentality (
-
-<p id="gdcalert70" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 62"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert71">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 62](#heading=h.d92e7kghw9dw))];
-* different premises (
-
-<p id="gdcalert71" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 62"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert72">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 62](#heading=h.w9mgy93jng7i)) [e.g. materialism (
-
-<p id="gdcalert72" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 62"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert73">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 62](#heading=h.40y4efo1d0rb)), religion (
-
-<p id="gdcalert73" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 63"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert74">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 63](#heading=h.pnmqv5uazzg2))];
-* practical success (
-
-<p id="gdcalert74" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 63"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert75">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 63](#heading=h.y0j2ccfr8ojq)) [e.g. propaganda vs reality vs truth (
-
-<p id="gdcalert75" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 63"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert76">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 63](#heading=h.dm6u1silwokb))];
-* different analyses (
-
-<p id="gdcalert76" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 63"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert77">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 63](#heading=h.b09gb4z67nr2)) [e.g. material analysis (
-
-<p id="gdcalert77" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 63"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert78">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 63](#heading=h.huk6frdpcxa7)), consumerism (
-
-<p id="gdcalert78" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 64"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert79">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 64](#heading=h.used3s4xt8kn))]; 
-* utility monsters (
-
-<p id="gdcalert79" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 64"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert80">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 64](#heading=h.x9plt6thz6n5)) [e.g. insanity (
-
-<p id="gdcalert80" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 64"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert81">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 64](#heading=h.1bv5rnt6ydz4)), fascism (
-
-<p id="gdcalert81" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 65"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert82">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 65](#heading=h.3hlsy583uvl1))];
-* and - of course - personal hypocrisy (
-
-<p id="gdcalert82" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 65"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert83">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 65](#heading=h.kwcr4coz1wf1)).
-
-Thanks for taking an interest in this idea (
-
-<p id="gdcalert83" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "pg 65"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert84">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[pg 65](#heading=h.oj091erv0o2f)), I hope this and the full text was worth your time and will help you with understanding the world in the future.
-
-<h2>Analytical Approach</h2>
-
+# Analytical Approach
 
 It is ignorant to deny that current analytic systems are dependable and helpful, but it is also ignorant to think that they are complete. Brilliant minds are constantly building on these to fill in the gaps, but these adaptations will always be confined to the underlying assumptions. In an attempt to avoid this restriction, another approach will be taken here: building a new one from an axiomatic base. While this attempt can soundly be accused of hubris, I hope that the logic laid out will not be invalidated by that perspective. To accomplish this daunting task, the following approach will be used: identify generalizable commonalities for communities and use those postulates to deconstruct and rationalize the social effects caused by them.
-
-<h3>Axioms</h3>
-
-
+Axioms
 The perceived nature of humanity (and the more broad understanding of “life”) is different for different cultures. Everything from religion to economy is utilized to create and defend a shared medium that can be utilized to preserve and advance the survival of the society. If we are going to construct axioms for this thesis, it must dismiss all these preconceptions and reflect on what unites living beings in general. For the purposes of this conversation, “living object” will be described as “the physical embodiment of a collection of impulses that developed (through evolution) the ability to compete for survival”. Since the axioms are generated by this definition, it is suggested that the reader take a moment and attempt to find counterexamples for the sake of testing its validity.
-
-<h4>Preservation of Legacy (Self Preservation)</h4>
-
-
+Preservation of Legacy (Self Preservation)
 The ability to compete for survival necessitates the justification of why you deserve life while something else doesn’t. Whether it is done by regarding some personal qualities as more valuable than others or simply declaring it true, our psyche will create a reality consistent with this base need. Self preservation is therefore inherent to all life.
 
 But this begs the question: what is the “self”? Philosophically, there is no universally consistent answer to this. The individual identity of a person will change over time either through experience or demand on responsibility. For example, the self may be extended to those you are responsible for (children, students, citizens, etc) or be restricted to exclude parts of yourself (feet, hands, eyes, etc). Being that it depends too much on personal interpretation, we cannot help to read it without bias. So "self preservation" carries too many assumptions to be useful as an axiom.
@@ -564,10 +184,7 @@ It is important to note how the self and legacy differ. First and foremost, it n
 Similar to how the self will exist within a physical space, legacy must also have a native environment: the metaphysical. While the self is shaped by the experiences of life, a legacy will be shaped by the joint psyche that preserves it, and - by extension - the legacy will mutate and split so that it can thrive in stable communities. While the self is nourished by material needs, legacy is nourished by the consciousness that it occupies. While the self will compete and cooperate with other selves, legacy will compete and cooperate with other legacies.
 
 Different interpretations of philosophy, religion, knowledge, history, communication, politics, and all other cultural aspects are susceptible and utilized by legacies to grow and thrive. It therefore makes sense that these aspects will be defended. But where a “self” will protect material needs with physical barriers, legacy will defend its resources with objectification. Barricading these mythological resources within the fortress of “reality” is the highest state of security a legacy can obtain, so - given the chance - this is what it will strive for. To provide a simplified example of this: there are many who will discuss (for example) religion as objective fact (regardless of how unreasonable it may appear): the legacy these people are striving to preserve and promote has achieved this security and - symbiotically - the legacy will allow them to exist immortally through its preservation.
-
-<h4>Perception Bias (Limited Knowledge)</h4>
-
-
+Perception Bias (Limited Knowledge)
 Similarly, survival also thrives when we promote our own experiences beyond that of our competitors. Without this promotion, the acquisition of limited resources will be lost to the quicker reaction of a less considerate opportunist. On its own, this will suggest that greed is an inherent virtue when regarding the continuation of life, but this initially seems contradictory to humanity’s success.
 
 Humans are physically ill prepared for individual competition in nature. Alternatively, strength of numbers will allow greed and initial skill to be less valid. By benefiting both survival (through innovation and pure physical force) and legacy (referenced in the previous section); community will always win over individual promotion. Yet this seems in direct contradiction to the benefits of inherent greed. Without any way to mitigate this divide, humans (and all “herd animals”) would be a living paradox. Fortunately, practical consideration introduces the existence of empathy (and the more ambiguous sympathy) that is portrayed repeatedly with animals that survive in communities.
@@ -575,15 +192,9 @@ Humans are physically ill prepared for individual competition in nature. Alterna
 Regardless, we cannot project what we cannot know, so it seems the promotion of personal experience (and those with similar experiences) for the sake of survival is still justified as universal. It is important to note that - acknowledging this axiom - empathy is based exclusively on shared experiences. As such a person will be forced to deny conflicting experiences if one has to depend on others for survival. Conversely, given the luxury of choosing allies, efficiency dictates that empathy will be attributed to those that appear to have the most common experiences (while often rejecting the differences).
 
 Together, these two axioms supply the ability to survive (perception bias) and the reason that the survival is valid (preservation of legacy). While the critique could be made that additional axioms should be considered, any hard claims would be hypocritical since that would be - itself - based on perception bias.
-
-<h3>Social Consent</h3>
-
-
-<span style="text-decoration:underline;">Relevant definitions</span>
-
-
-
-* Legacy: motivator of the existential self identity which can be used as a vehicle for immortality.
+Social Consent
+Relevant definitions
+Legacy: motivator of the existential self identity which can be used as a vehicle for immortality.
 
 There is an engrained contention within the declared axioms: a desire to both limit and expand the population of a society. With an elementary perspective: a large community allows legacy to be preserved, yet - conversely - perception bias cannot efficiently incorporate the entire community due to differing experiences. With a bit more complexity, this contention continues to exist: existential threats will allow perception bias to prioritize innovation and production for survival, but legacy preservation will be hindered due to competing resources that are introduced (e.g. a differing morality). The analysis of this dichotomy of growth and refinement is what “legacy analysis” will reference: observing which legacies are thriving in the current conditions and determining how that propagation affects communities.
 
@@ -594,10 +205,7 @@ It naturally follows that only a combined analysis performed by representatives 
 While - admittedly - the predictive capabilities of legacy analysis for individuals is limited (although hopefully with future breakthroughs this may be improved on), it can anticipate how societies will interact and can be influenced. For example, it is easy to see that the subculture with the biggest platform will necessarily guide the conversation around social consent. This will inevitably result in their specific legacies being promoted beyond - and often in spite of - other’s (which includes the provision of material and metaphysical goods). Thus, practically speaking, this influential group will - almost assuredly - acquire an empowered position and will dictate the perception of reality for everyone else. Those that cannot or will not abide by this reality will be treated as threats; branded “traitors” or “insane” or “criminals”.
 
 Without further simplification, this is not much use. The vaguity and nondescript nature of the results are at best noise that cannot be parsed and at worst will be combed through to justify flawed thinking. It is therefore necessary to consolidate social consent into how it is utilized: what is expected from the group at large, the support for rejecting expectations, and what is implicitly under consideration within the group. These will be called "civil consent", "radical consent", and "constructed consent" respectively.
-
-<h4>Civil Consent</h4>
-
-
+Civil Consent
 True cohesion of a community is when everyone has the opportunity and the ability (either known explicitly or because of implicit repercussions) to preserve the legacy they’ve adopted. Providing unity necessitates the provision and defense of non-contested resources within the group. For this reason, communities will naturally internalize successful reactions to historical threats for future security. This inherent protection is the purpose of civility and - for the legacies considered acceptable - it takes considerable introspection to challenge it. 
 
 These virtues are important to keep in mind through the rest of this thesis, because this concept will be used as an anti-hero after this section. It’s presence within a community is both necessary and intrinsic; providing the community with a common platform and guidance through myths and institutions. All underlying neutral interactions in a community will support the reality that civility cultivates; from legal rules to ‘apolitical’ entertainment, an expected understanding of the world is reinforced to provide the ideal environment in which the accepted legacies can thrive.
@@ -609,10 +217,7 @@ The core of civility can always be identified by which legacies are promoted by 
 While the theme of this section (showing how the socially implicit defense of accepted legacies is cultivated and reacts) will be referenced almost exclusively within this thesis as a conjugation of “civil”, the broader colloquial reference is much more diverse. Synonyms such as "tradition", "cultural norms", “orthodoxy”, “time tested”, “appropriate”, “iconic”, “natural”, etc will always fundamentally appeal to the same underlying justification: the community has already accepted the idea as valid so it is factual. While this claim is inherently true, it is vital to note that the social cohesion provided becomes circular at the moment when it is defended. Civility that is not questioned is practical reality, and reality needs no defense. The moment it is questioned, it stops being reality and enters the realm of subjectivity.
 
 As a final note, it should be pointed out that subcommunities will have their own civility which necessarily complies with the protections (myths and institutions) of the super-civility the greater community would appeal to.
-
-<h4>Radical Consent</h4>
-
-
+Radical Consent
 Whether through advancement of technology, theory, and knowledge or unexpected shortages; civility will continuously need to adapt to a changing environment. This creates fringe subcommunities which are tentatively included when the society is comfortable and quickly excluded if scarcity occurs. Due to this lack of consistent coverage, these communities will often criticize the current cultural agreement and perceived reality as insufficient to their communal needs. This critique of civil exclusion is called “radicality” and - when there is community agreement that the critique is valid - “radical consent”. Insignificantly small occurences of radicality will be ignored within this thesis for both clarity and simplicity allowing “radicality” and “radical consent” to be synonymous.
 
 When civilities collide, the less established will become subservient and will be forced to - at least when challenged - accommodate the other mythoi and structures. It needs to be remembered that civility is a passive defense, so the suppression and promotion of different legacies are amorally systemic and utilitarian and must not be confused with malice. In contrast, radicality is a critique; a tool needed to remove mythoi and structures from civility for the explicit purpose of including the legacies of the most people. It is irrelevant to consider other civilities that are more inclusive since radicality is only meaningful in the context of exclusive defenses.
@@ -622,29 +227,21 @@ Regardless, radicality is always seen as a threat to legacies that have construc
 Acknowledging that civility will have base exclusionary support and an objectification that radicality is incapable of developing, without support the critique is a wasted effort. In contrast, radicality has two advantages over civility: consistency and inclusivity. Radicality exists only as a critique of civility’s defense, it serves no other purpose, therefore - unless it succeeds in weakening civility - it will always exist. Additionally, the “civil” minded are not excluded from being sympathetic to the radical cause and can actually work from within to show that radicality can succeed while allowing civility to serve its purpose. On its own, the persistent critique will simply be an irritation to the community, but - when joined with the second - a sympathetic critique will consistently get stronger until civility is forced to adapt or lose it’s community.
 
 The allegiance with the civil minded is not without consequence. Any person that is willing to support another plight without gaining benefit from it cannot voice accurately the needs or the full criticism. Due to perception bias, even if the person once suffered due to similar situations, the inability to know the current conditions combined with the adoption of civil objectivity will render their experience inadequate. For better or worse, this also causes many radical communities to be influenced by the stronger local civility and the critique will morph into a less disruptive judgment which - for the most fringe groups - will result in a frustrating disempowerment of the harsher critique.
-
-<h4>Constructed Consent</h4>
-
-
+Constructed Consent
 The contrast between civility and radicality are inherently at odds, so - unless a community is to fracture - there must be a means of balancing the critique with the civil dependency. The solution can be found in the community conversation that incorporates both of them. Within the metaphysical realm, if civility can be compared to the walls surrounding a community and radicality a battering ram, then constructed consent would be the structural integrity of the walls. While civility will attempt to dictate the conversation - as is its purpose - it is ultimately empowered by the will of the people. So if radicality’s critique is persuasive enough to the community, the specific defense being attacked will lose that empowerment.
 
 It is improbable that anyone can predict this chaotic flow of unknowable legacy mutations and the constant fluctuation within community perception. In the future - with further understanding of how legacies thrive - it may be the case that constructed consent can be dissected further, but for now only a few superficial points will be presented:
 
-
-
-* Constructed consent will never abandon civility’s core legacy, no matter how large the community can become
-* Only the legacies considered civil can influence the constructed consent
-* The more support radical consent has, the more civil consent will need to change.
+Constructed consent will never abandon civility’s core legacy, no matter how large the community can become
+Only the legacies considered civil can influence the constructed consent
+The more support radical consent has, the more civil consent will need to change.
 
 As already established, civilities have historic foundations that generated an established cache of metaphysical resources (laws, morality, etc). These will fundamentally support and be dictated by core legacies. As constructed consent adapts to new legacies (both internal mutations and external discovery), the shift in boundary of civil acceptance is primarily dependent on how it affects the gain or loss in resource objectification. If a legacy is introduced that allows access to a large population but causes foundational resources to become subjective, constructed consent will likely consider this a loss. In contrast, if radicality introduces a legacy that can already be included with no alteration to the metaphysical resources, then constructed consent will shift the civil boundary without recourse. In summary, including additional legacies is not a zero-sum-game.
 
 It should follow that legacies with no community support will be irrelevant to constructed consent since there can be no effect on the confidence that the civil defenses (i.e. mythology and institutions) depend on. These external legacies are forced to develop their own civility which will attempt to compete for the community (either through ideological competition or material destruction). Due to the risk of becoming fringe, the legacies most susceptible to the ideological competition will become radical and constructed consent will be influenced.
 
 For the situation in which constructed consent evaluates the inclusion of the new legacy as not worth the objective strain on the resources, the civil competition will continue. The radical legacies will have to evaluate the better position: remaining under the fringe protection of the more objectified civility or assuming the new civility which offers a more native and fundamental protection. Recursively as long as the radicality continues to appeal to fringe communities, the civility will slowly suffer with the radical critique gaining support and the opposing civility becoming more objective. If constructed consent determines that inclusion of the new legacy (and castration the opposing civility) has the risk of rendering the current civility completely subjective, the growing external civility will eventually overtake the community and the weakened civility will be absorbed forcing it to become submissive to a new mythos.
-
-<h4>Civil Radicality</h4>
-
-
+Civil Radicality
 At this point I would like to take a moment to recognize that the discussion so far has been intentionally abstract and theoretical. Unless discussed as an alien idea, the experience of the reader would fundamentally alter the way they perceived it. With that in mind, I would like to take a moment to express my appreciation for considering how legacy utilizes civility, radicality, and the conversation surrounding it. Before moving on to a more practical discussion, there is a request: please take a moment to consider how this metaphysical competition of constructing an objective reality is influencing you [the reader] even now.
 
 This is an earnest plea, the writing will still be here when you are done. Take at least a 2 minutes pause to consider your own consciousness and evaluate if the ideas presented so far can coexist with it.
@@ -658,10 +255,7 @@ To say this with more generalization: radical efforts only exist because communi
 While both supported with civil praise (eg “patriotic” or a “good citizen”) and expected, the unquestioning defense of civility will lead to an inability to empathize with those that are neglected under its protection. Under the fullest belief in civility, there will be a demand that even sympathy for radical ideas is an affront to the objective truth that civility proclaims. This final state is what is meant when someone demands “civil radicality”.
 
 A full indoctrination into the belief that civility is not only appropriate, but necessarily true will only allow one thought: radicality must ONLY exist within the confines of civility to be valid (which makes sympathy with true radicality impossible).
-
-<h4>Radical Civility</h4>
-
-
+Radical Civility
 There are rational defenses to the radical claim “I am not in control”. For example one could say “It doesn’t really matter who is controlling me since I feel like I am” or “I must have agency or none of this matters”. These are not civil arguments. Quite the contrary, these statements can only be made if the civil reality of “I’m necessarily in control” is temporarily set aside. If convincing, these responses will become part of civility’s defense, but they can only be generated originally through constructed consent.
 
 Although it is a revisiting of the previous sections, it is important to acknowledge that supporting radicality is not necessarily a denial of the civil validity, but only an attempt to treat it with the same subjectivity as the alternative claim. Communities are much the same way: portions of a population can come to the conclusion that civility is beneficial while promoting radicality. There may be deeper civil assumptions they are relying on, but - unless those are critiqued as well - those premises are practically objective.
@@ -677,32 +271,23 @@ In an idealistically simple display of what this would look like: within an insu
 All this assumes that exclusion is the subservient civility.  If it is the other way around and bigotry was objective, then it would necessarily reject all advocates of radical civility due to the subjective threat it produces to the metaphysical resources.
 
 Even with this justification, it needs to be noted that a community claiming to be radically civil will not be able to avoid defensive hypocrisy and a perceived need for competition. In a more practical rendering of the above example, there will be historic mythoi that the bigotry will be able to objectify. While this suggests that accepting exclusive civilities will find a foundation within the existing hypocrisy and utilizing radical civility is actually a trojan horse for the worst of history’s outcomes, this is a circular argument for civil radicality. In contrast there is the equally circular claim from radical civility: since exclusion will always exist due to practical community defenses, and legacies can always thrive better with a wider community; it is optimal to fundamentally institutionalize radical civility in order to allow the most legacies to thrive. Which bias is individually chosen fundamentally depends on the metric we judge culture by and how much current civility is promoting you. The usage of both extremes (and all intermediate combinations) within society gives us what we see practically.
-
-<h3>Practical Discussion</h3>
-
-
-<span style="text-decoration:underline;">Relevant Definitions</span>
-
-
-
-* Legacy: motivator of the existential self identity which can be used as a vehicle for immortality.
-* Civil: inherent community approval
-* Radical: Motivating or acting in opposition to inherent community approval
-* Civil Radicality: expecting social critiques to be limited to civil action
-* Radical Civility: expecting a community to oppose inherent approval
+Practical Discussion
+Relevant Definitions
+Legacy: motivator of the existential self identity which can be used as a vehicle for immortality.
+Civil: inherent community approval
+Radical: Motivating or acting in opposition to inherent community approval
+Civil Radicality: expecting social critiques to be limited to civil action
+Radical Civility: expecting a community to oppose inherent approval
 
 Now that the language of the analysis and the general concepts have been laid out, it is useful to see how this can be applied to more practical community dynamics. By starting small and working up, hopefully - under an amoral context - complex social dynamics can be understood with a less gilded perspective, allowing the conflicting motivators to be seen more clearly.
 
 Additionally, many of the historic narratives the world has established within its own civil mythos will contradict the narratives described here. The reader is urged to attempt reading the following without moral evaluation, but only to understand how the civil institutions provide a framework for life to find purpose within. 
-
-<h4>Local Examples</h4>
-
-
+Local Examples
 While the main focus on this thesis is humanity, it will actually be easier to start analysing society in a less complex example that has already implemented (in general) a working system. The following scenarios will be presented in the order of increasing internal conflict.
 
 Disclaimer: these are not meant to be all encompassing nor discussed from “an expert” perspective. There will be complexities that are overlooked and unfair generalities.  The intent of this section is to provide (within a scope of limited accuracy) a narrative in which the language above can be applied and normalized.
 
-<span style="text-decoration:underline;">Drones</span>
+Drones
 
 Whether it be bees or ants or any other colony that works as a single unit, these communities have an extremely limited civility that the entire community can - and needs - to abide by: survival and expansion of the community to combat natural threats.  No individual “person” has a drive to produce new legacies that may threaten the objectified civility of the community (either directly or even tangentially). It is only through this civil stability that the colony can reach an equilibrium with the external environment. While it seems chaotic, the legacies of the individuals are dictated by the civil authority in what can be allowed.
 
@@ -710,7 +295,7 @@ There are times in which this fails due to a catastrophic disruption of the comm
 
 This works well for large communities as seen in the success of insect colonies, but it also inhibits adaptation to large scale change due to the lack of robust radical experiences.
 
-<span style="text-decoration:underline;">Cells</span>
+Cells
 
 Recalling that creating and preserving legacy was introduced as a biological concept necessary for justifying survival (instead of simply a generational inheritance), it is meaningful to see how it applies to the basic building blocks of life itself: cells. These communities have evolved with a similar limited scope to the civility found in drones since the greater survival is dependent on the "individual" fulfilling the duty literally written into its code. While this may seem irrelevant since legacy is typically discussed as responsibilities, characteristics, narratives, or other metaphysical inherited remnants of the past instead of RNA sequences; it is important to see that legacy inheritance via biology is a natural extension. While cell reproduction perpetuates individual legacy, any mutations within the cloning process are neither promoted nor necessarily rejected. As long as the mutations still can operate civilly (allowing the cultures to function), changes are not rejected. This has the potential to be good and bad for the overall community. Whether it be a mutation that - for example - eventually helps to reject toxins or - in contrast - a cancer that will cause harm, the mutation (through evolutionary training) will attempt to find its place within the community so its legacy (the mutation of the code) is preserved.
 
@@ -718,7 +303,7 @@ Similar to the benefits of civil radicality within the "drone" section, cells wi
 
 As a final note, it could be considered that the subconscious of a person is a manifestation of the constructed consent of the organism as a whole. It is reactive to the needs indicated by the community: pain is an indicator of identifiable civil conflict (either internal or external), while hunger and or thirst (as well as the rest of the survivalistic urges of the body) are a reaction to needs that the cells are indicating. Moving forward with more complex systems, understanding constructed consent as “oftentimes inexpressible wisdom of the community” can be helpful to understand the ambiguity and necessity of it.
 
-<span style="text-decoration:underline;">Family</span>
+Family
 
 While this section will be more in line with how the typical notion of “legacy” is considered, it should be noted we are still using the same definition as before. In this light, it is also important to see that a legacy will not start with any individual person. There is alway unknown civil inheritance that people are unaware of. Like all civility, the longer it goes unopposed the more it is institutionalized and objectified via mythos and expectations/rules. The culture a person is brought up in is no different than the genetic sequence inherited by the cell. It is only through outside influence or anomalous mutations that the expected legacy will be changed and possibly become radical.
 
@@ -730,7 +315,7 @@ Human ingenuity (which leads to new technologies), educational foresight (which 
 
 Due to the limited number of legacies within a family and the narrow scope on how those legacies will differ, the “traditional family” is either strictly radically civil or civilly radical. While not fair to consider this a direct comparison to the implementation within the broader society, it logically follows that - everything being equal - the coherency and comfort of the family is increased when radical civility is practiced due to metaphysical adaptability when challenged. In contrast coherency and comfort is decreased under civil radicality due to inevitable conflict and rejection. 
 
-<span style="text-decoration:underline;">Communities</span>
+Communities
 
 Although this parallels the “families” section, the number of local civilities that are interacting with each other are much more numerous and broad. For this reason, civility is less strict and radicality is always present to some degree. This also has the reverse effect that entire subcommunities can be forced into obscurity as long as the majority can institutionalize their own legacy or - more importantly - are convinced that they can institutionalize a legacy they believe is theirs.
 
@@ -741,13 +326,11 @@ In contrast, there are instances when subcommunities are fundamentally unable to
 It is important to note that within legacy analysis, there are no such things as “bad actors”. Any action that cannot be understood is the result of perception bias of the observer. Due to the axioms initially proposed, every action is assumed to be driven by the adaptation, acceptance, or promotion of legacy. The more a mythos misaligns with reality, the more it shows a conflict between the perceiver's civility and the civility being perceived. At worst, the perception of reality has been deliberately and systematically constructed in attempts to dissuade any sympathy with radical legacies that civility cannot include but are threatened by.
 
 It should be fairly obvious that - like legacy itself - the perception of civility is dependent on the experiences and teachings a person has lived through. This will lead to the constructed consent and - by extension - civility of a community to fundamentally be driven by those with the largest platforms. It additionally follows that tradition is less important than the perception of tradition and (similarly) civility is less important than the perception of civility. Ultimately, it is the manipulation of this perception that most of society centers around. With this understanding, “reality” should be less thought of as an objective supernatural medium to live within, but a personal construction of local inputs filtered through our accepted civility. Which leads to the troubling but inevitable realization that reality is constructed by the institutions that surround us.
-
-<h4>Historical Narratives</h4>
-
+Historical Narratives
 
 With the risk of being redundant, this is a reminder that this section is not an in-depth approach to understanding the mindset of any nation. While attempting to be accurate, most of the motivators described will be a single - possibly flawed - understanding of elementary history. To reiterate - the reason for including this section is to show (within the narrative of history presented) how legacy analysis can be used for people more knowledgeable than myself. Being that this is described through the lens of philosophic continuity, many common understandings of history based on artifacts and internally generated narratives surrounding it may conflict with what is provided.
 
-<span style="text-decoration:underline;">The USSR</span>
+The USSR
 
 After the Romanovs fell to the increasing need for worker comfort within imperial Russia, the previous strict civility of the dynasty was still fresh in the minds of those who were ruled by it. Even with no authoritative entity to fall back on, the aspects of the community cohesion that were objectified (morality, agency, responsibility, etc) were not challenged, thus remained after the change in civility. Regardless and in spite of attempts to fulfill a Marxian ideology of equal distribution of labor ownership, these civil dictators ensured the legacy of a centralized protector (which was institutionalized in the previous government) persisted through the leadership of the socialist party. This was seen with the heavy handed approach presented by Lenin and his successor (Stalin) to ensure that the capitalist ideology was defended against and therefore stamped out instead of allowing them to be equally influential.
 
@@ -759,7 +342,7 @@ If promotion of this civility had continued after Stalin and someone else had ta
 
 In short: due to the rapid shift of the leaders that neglected the inertia of the cultural civility, the metaphysical resources became subjectified and the civility of the state dissolved into fractured local authorities. With no overarching civility to hold them together, the country fell apart. Eventually, it resolidified under a new mythos (which was very similar to the old dynasty while utilizing the scoicalist party structure) with a new branding: Russia.
 
-<span style="text-decoration:underline;">Nazi</span>
+Nazi
 
 The late 18th century saw governmental shifts of power from monarchies to representative rule. For each country that converted, regardless whether this was a forced or peaceful transition, the territorial legacy of the old dictation merged with the communal appreciation of the distributed power. The resulting civility was a nation with strong borders and an appreciation for allies. As such, World War I could be seen as a war of fallen monarchies trying to prove they can still protect themselves and a test of recreated alliships.
 
@@ -775,7 +358,7 @@ Unlike the nationalistic cohesive protection adopted by the surrounding countrie
 
 The reacting clash of civilities resulting in World War II is well known, but more interesting is the question “is there any way Nazi Germany could have reached an equalibrium with the rest of the world?” I would argue “no” unless other fascist civilities developed within other countries to counter the claim of genetic authority and reinstate a geographic limitation to their claim of superiority. The mythos of Nazi deservedness was foundational to the civility it held, so democracy (and its rejection of biological “rights”) was considered illegitimate. It should be noted that the fascistic civilities needed to counter this idea started to develop in other countries during WWII (as seen with segregation of races out of fear), but fortunately these civilities never fully came to fruition (even if there are hints of them protecting legacies of biologic deservedness still today). Further and most importantly, the mythos of fascism is an amalgamation of reactive defenses that are internally inconsistent. It cannot self-sustain without a foil; even if everyone was converted or segregated, there would still be a need to find dissenters so the flaws of the mythos wouldn’t collapse under its own weight. There is an ongoing organic effort to create a consistent reality via further complex narratives (aka conspiracy theories) where these civilities still exist.
 
-<span style="text-decoration:underline;">The USA</span>
+The USA
 
 The build up to the US revolution was fundamentally driven by ideas of the enlightenment most apply seen in the phrase “right to life, liberty, and pursuit of happiness” which was a direct reference to John Locke’s belief that every man has the right to life, liberty, and property. Further the assertion that “all men are created equal” directly undermined the monarchical civility that the leaders had divine authority which others lacked. As such, the pre-revolutionary colonies pushed a narrative of a new world which would prioritize radical civility and promote all citizens.
 
@@ -794,50 +377,33 @@ While being in a constant tug of war between increasing equity and further insti
 Unless the US is willing to engage in this existential change, the idolization of the individual will be it’s identity. This inherently favors that of the pre-empowered voice (as it always has) leading to a citizenship that will constantly be exploited. If this is true, the US will continue to expect the illusion of radical civility applied to continue granting personal freedoms (such as voting rights, marriage equality, and economic justice) but only with additional barriers created to overcome (such as businesses that are “too big to fail” or segregating communities of immigrants to be treated as enemies). Media (both fiction and non-fiction) will continue to focus on “heroism” and “villains” while unable or neglecting to outright identify cultural influences.
 
 The majority of the people will continue to sink further into equal poverty while being convinced through the combined national narrative that individuals are succeeding and poverty is an individual issue (as opposed to a cultural one). Systemic bigotry will continue to shift in forms so demographic infighting will continue while an aristocratic group will remain unchallenged and continue to solidify. Further, explicit racism and sexism (while still existing on a personal level and causing personal disagreements) will be held up as institutional icons of moral progress. People on average will achieve equality, but in terms of legacy no one will be metaphysically stable enough to be free (adopting instead the objectified civil limitations refined by the aristocracy). An ideological feudalism will be established and everyone will accept it as reality as the serfs did under the monarchy. If, on the other hand, the peoples of the US decided to reject the national identity and become radical to individualistic domination, the legacy of the monarchy could possibly be removed, but like the Revolutionary war that created the “free states”, I fear the cornerstone is too institutionalized to allow peaceful transition.
-
-<h2>Optimization</h2>
-
-
+Optimization
 Now that the method and language of the analysis has been established, it is important to see how this can be utilized. After the historical examples described in the previous section, it should be obvious that the amoral analysis proposed can be used with different metrics to produce greatly different results. To further solidify this concern, below are a few examples:
 
-
-
-* If one was to consider an objective civility worth promoting to the detriment of those that are excluded from the constructed mythos, then legacy analysis will urge civil radicality and provide reason to be uncompromising in spite of others’ suffering. 
-* If someone was to demand promotion of their own legacy in spite of others, legacy analysis will urge the removal of liberty from the community (i.e. remove the ability of the community to choose alternative legacies).
-* If someone wants to allow forgien civilities to usurp the current one, legacy analysis would advocate for causing infighting so civility will not be able to defend the metaphysical resources.
+If one was to consider an objective civility worth promoting to the detriment of those that are excluded from the constructed mythos, then legacy analysis will urge civil radicality and provide reason to be uncompromising in spite of others’ suffering. 
+If someone was to demand promotion of their own legacy in spite of others, legacy analysis will urge the removal of liberty from the community (i.e. remove the ability of the community to choose alternative legacies).
+If someone wants to allow forgien civilities to usurp the current one, legacy analysis would advocate for causing infighting so civility will not be able to defend the metaphysical resources.
 
 When considering all this, the gravity of choosing an unbiased metric becomes apparent. Promoting one group over another will always ensure someone’s freedom will be restricted due to the civility that forms. Therefore, the metric that will be used within the remainder of this thesis will attempt to be chosen without cultural influence. While this is a genuine pursuit, the immediate hypocrisy of the intent should be apparent since even attempting to reject cultural influence is the product of how one analyzes culture in the first place. In spite of the civil indoctrination and perception bias of the author, the reader is asked to evaluate the metric strictly based on the reasoning presented instead of how agreeable it is. Equally, it is asked that this is contrasted with other metrics and value systems to ensure that an optimized community can grow.
-
-<h3>Values</h3>
-
-
-<span style="text-decoration:underline;">Relevant Definitions</span>
-
-
-
-* Legacy: motivator of the existential self identity which can be used as a vehicle for immortality.
-* Civil: inherent community approval
-* Radical: Motivating or acting in opposition to inherent community approval
-* Civil Radicality: expecting social critiques to be limited to civil action
+Values
+Relevant Definitions
+Legacy: motivator of the existential self identity which can be used as a vehicle for immortality.
+Civil: inherent community approval
+Radical: Motivating or acting in opposition to inherent community approval
+Civil Radicality: expecting social critiques to be limited to civil action
 
 It should go without saying that there is no objectively "best" metric. Even the use of “metric” assumes that it needs to be logical and stagnant where values can be based on situational relativity or flat out inconsistency (due to the unknown composite legacies defining the values instead of a predetermined metric). Instead of attempting to resolve that ball of worms, it will be assumed that there are various relevant rubrics that people have to choose from (many of which will conflict with others) and it will be requested that the reader evaluate the validity of the one presented before critiquing it.
 
 This is not a plea for the reader to adopt the system (although - if I am to be honest - I truly hope you do). The request is quite the opposite: the hope is that you will understand it well enough so counterexamples and critiques can be found.
 
 To make that request more palatable, the system will be explicitly reasoned out so that any suspension of disbelief needed will be easier to engage. If the reader ultimately decides to adopt this system, then it is hoped that the same presentation given here can be internalized and used to defend it without appealing to an authority.
-
-<h4>Moral Relativity</h4>
-
-
+Moral Relativity
 Some will reasonably argue that abstract systems should be applied universally. While this is theoretically sound, stagnant systems - when introduced into the chaos of practicality - will generally collapse under unforeseen environments. Either through the ambiguity of language, the differing cultural understanding of "good" and "bad", or the systemic inability for some to be “moral”; universal applicability is generally impossible. As such, even the most abstract consistent moral system cannot be trusted when utilized outside the culture that generated it.
 
 In contrast, a relative system (one that adjusts to fit the culture it is in) makes no hard claims about predetermining how a society ought to be. While this does fall prey to a lack of divine authority and therefore lacks initial objectification, the payoff is allowing the system to adapt to the conversation presented. 
 
 Since this will be used for an analysis system that claims relevance to all life, the value of adaptability will far outweigh all other concerns. For this reason, the metric must be - fundamentally - irrelevant unless the environment being analyzed is first established.
-
-<h4>Moral Consistency</h4>
-
-
+Moral Consistency
 Regardless of validity or fairness, morality will generate in one of two ways: either reactive (in response to a confrontation which will tend to align with civility) or derived (from a predetermined ideology). There are benefits and negatives regarding each of these methods. For example, while reactive morality will reflect previous conflicts of the society allowing for a more accurate reflection of the practical (and often nuanced) issues and needs that will be encountered, it is in danger of supporting historical powers allowing (to appropriate a well known phrase) “goodness to be dictated by the influential” in spite of the underrepresented. In contrast, derived morality will be consistent and more fair to all groups (unless the ideology is based on civility as well) by design, but it will lack the specifics needed to address many of the practical issues that will arise.
 
 It is highly unlikely due to the lack of practicality that fully derived morality will be instituted in its pure state. Which is why all systems should be assumed - from a theoretical standpoint - to be a reflection of the culture that it came from and critiqued as such. Further, ideological value systems are generally advertised as universally applicable, so dictating morality is an assurance of cultural imperialism and many will become uncivil. It is also the case that reactive values are fundamentally exclusive and relevant specifically to the situations in which they were created. It should be easy to see that in both of these cases, values are a tool primarily used to ensure that personal legacies can be optimally preserved (to the detriment of the uncivil).
@@ -845,47 +411,36 @@ It is highly unlikely due to the lack of practicality that fully derived moralit
 Since one of the stipulations for a valid system is to be internally consistent, the second ideological approach (derived) will be used. This should beg the question, how to ensure one group is not favored above the others? The solution: generate the system on a tautologically true statement that could be accepted within any culture. What will be used is the claim “normality ought to be normal”.
 
 This can be read one of two ways: “everyone ought to adapt to MY view of normality” or “I should adapt to ensure normality includes everyone”. Since the first is fundamentally incorporating “rejection of other cultures as valid” which is conflicting with the idea of normalization itself, it is definitionally self-defeating. With this clarification, a more clear phrase will be used to capture the same sentiment of “normality ought to be normal” without the misreading - and therefore more applicable to basic conversations: “individual comfort ought never detract from community comfort”.
-
-<h4>Relative Normality</h4>
-
-
+Relative Normality
 One point needs to be made perfectly clear before explaining the main points of the system itself: if this system ever becomes stagnant or used for individual judgement, something has gone horribly wrong. This is not a system that depends on villains or heroes. No one is inherently better than anyone else and engaging in superiority at any level will strip the normality of respect away from those that we are considering. Hopefully this will naturally fall out of the definitions and premises listed below, but it should be expected that practicality will be used to alter the system from its original intent at some point. As such I would never personally advocate for this to be institutionalized into law, regardless of how pure the intent is. Instead I would wish this to be an independent underlying premise that laws were based on and a means of critiquing any institutionalized morality at regular intervals (including reflectively).
 
-<span style="text-decoration:underline;">Relevant Definitions</span>
+Relevant Definitions
 
 There are many terms specific to this section that will be listed here as a reference (as well as future sections when they are needed):
 
+Alterable: in a variant state of being relative to the discussion
+population: all objects (except for possibly a statistically insignificant set of outliers) in a system which are alterable †
+Person: a member of the population that fulfils the axioms for life
+Element: non-person member of the population that can be added or removed by will
+Absolute essential: an element that is required for a person to live
+Excess: an element that is not an absolute essential lacking the capability to be distributed with all persons †
+Normality: the minimum expected state of all persons when excluding excess
+Relative essential: an element that is required to gain normality
+Harm: causing normality to be unobtainable
+Tragic: increases both normality and harm
 
-
-* Alterable: in a variant state of being relative to the discussion
-* population: all objects (except for possibly a statistically insignificant set of outliers) in a system which are alterable <sup>†</sup>
-* Person: a member of the population that fulfils the axioms for life
-* Element: non-person member of the population that can be added or removed by will
-* Absolute essential: an element that is required for a person to live
-* Excess: an element that is not an absolute essential lacking the capability to be distributed with all persons <sup>†</sup>
-* Normality: the minimum expected state of all persons when excluding excess
-* Relative essential: an element that is required to gain normality
-* Harm: causing normality to be unobtainable
-* Tragic: increases both normality and harm
-
-<sup>†</sup> within distribution - for the sake of statistical outliers - a neglect of the statistically insignificant outliers is needed from the population. This adds a degree of uncertainty, but the alternative would make the entire value system vapidly fulfilled at all times since exceptions could always be found. 
+† within distribution - for the sake of statistical outliers - a neglect of the statistically insignificant outliers is needed from the population. This adds a degree of uncertainty, but the alternative would make the entire value system vapidly fulfilled at all times since exceptions could always be found. 
 
 With that in mind, the summary will be posted for convenience here for reference:
-
-
-
-1. One ought not to critique people for making tragic decisions
-2. One ought to critique tragic situations
-3. If situations are not described here, one ought not to declare that someone ought or ought not to do them
-4. One ought to distribute relative essentials unless it does harm
-5. One ought to remove elements which cause strict harm
-6. One ought to use excess to increase normality
-7. One ought not to demand or strive to gain excess for one's legacy
-8. One ought to instruct the population what they ought to and what they ought not to do
-
-<h5>1 & 2: Critiques of Tragedy</h5>
-
-
+One ought not to critique people for making tragic decisions
+One ought to critique tragic situations
+If situations are not described here, one ought not to declare that someone ought or ought not to do them
+One ought to distribute relative essentials unless it does harm
+One ought to remove elements which cause strict harm
+One ought to use excess to increase normality
+One ought not to demand or strive to gain excess for one's legacy
+One ought to instruct the population what they ought to and what they ought not to do
+1 & 2: Critiques of Tragedy
 First and foremost, understand that positions of authority are not persons since a position is not alive (i.e. it is not physical). While a position ought to be criticized the person utilizing that position ought not to be.
 
 This pair of values is the first listed intentionally. All personal judgements of others are inherently due to conflicting value systems and how we act on them. It is hard - if not downright impossible - to separate this gut reaction from self-preservation/preservation-of-legacy and therefore - by extension - based on personal experience. In this respect, judgement is simply an admittance that one set of experiences being unknown to all involved is tragic. It would be regressive circular reasoning to promote critiques of personal tragic decisions, since that is - in itself - tragic. That said, if the holder of a position was expected to have that experience - either through prescribed training or necessary requirements for the position - the holder of the position ought to receive the critique only insofar as they are able to perform their duties.
@@ -895,15 +450,9 @@ Much of the difficulty utilizing this system will be to make this separation due
 Similarly, even if we are able to overcome this urge to conflate identity and position, there may be some positions that will be inseparable from the person holding it (eg. a subject matter expert or a parent). Convincing the holder that a critique of the way they abide by a position is not a critique of their identity may be impossible. In spite of this, we ought to remain consistent in where blame is being placed and be as explicit as possible that the person themselves is not the focus.
 
 It is the intent of this system to increase the normality of everyone. To do this, the system we inhabit must be constantly analyzed within as many different conversations as possible. We therefore ought to reject the narratives which promote public harm in favor of increasing limited normality. Most "harmful" situations when fully analyzed are tragic, but that doesn't mean that we ought to accept a shift and restrict the population to justify the harm done. Instead it should be attempted to separate the harm from the increased normalization so future actions will be more advantageous.
-
-<h5>3: If situations are not described here, one ought not to declare that someone ought or ought not to do them</h5>
-
-
+3: If situations are not described here, one ought not to declare that someone ought or ought not to do them
 While being a shorter section, this may be the most controversial. While this value system is robust relative to the possible narratives, it is intended to be limited within those narratives. The urge to expand this in order to judge others or extract vengeance or to generally prioritize experience over perception bias is both expected and inconsistent to the axioms proposed. Therefore, this system must allow some - if not most - situations to fall outside the scope of strict judgement.
-
-<h5>4: One ought to distribute relative essentials unless it does harm</h5>
-
-
+4: One ought to distribute relative essentials unless it does harm
 This is a direct fallout of “normality should be normal for everyone”. Everyone’s understanding of “normal” is inherently built into perception bias so our projection of what everyone’s needs are will not be universally accurate. Regardless, the alternative - assuming that your normality is deserved and only applicable to yourself - breaks the meaning of what "normal" is intended to describe. Assuming your normality is not deserved by others is not only a gross misrepresentation of others, but will be - by definition - more harmful.
 
 It is important to address the situations in which normality for one person is harmful for another. While many times it will be obvious that distributing the element would cause or avoid harm, this conclusion is always influenced by our own experience. If there is a dispute of a claim that an essencial may or may not increase harm, the ultimate conclusion ought to be made by persons (not groups) that would receive the essencial.
@@ -913,24 +462,15 @@ To use this in practice: consider two people of a group that has normalized usin
 It is important to note that - by definition - "relative essencial" does not describe only material goods. This is vital. In the example above, one could and ought to make the argument that the "harm" caused is the removal of "lucidity". So we can see that this distribution ought to be considered more tragic (distribution of "new perspective" while reducing "lucidity") and critiqued/analyzed to find if there is a better way to move forward.
 
 This will surely cause the most mental and philosophical struggle while people use this system, but I urge anyone willing to use it to appeal to the previous values (how to critique tragic events) to analyze the situation (and the position included in it) but not the people making the decision.
-
-<h5>5: One ought to remove elements which cause strict harm</h5>
-
-
+5: One ought to remove elements which cause strict harm
 It should throw up some flags from the last section that it was only about distribution. If it stopped there, then sins of our ancestors that were inherited by normality ought to be preserved, even if they caused harm. When accounting for the premise that this should include all points which someone ought or ought not act on, it is necessary to include the rejection of these sins that cause strict harm.
 
 The easiest practical example of this would the support of slavery in the US and the strict harm that specific communities continue to suffer because of it. We ought to advocate against these types of offences. This includes any other type of servitude as well can be abolished.
-
-<h5>6: One ought to use excess to increase normality</h5>
-
-
+6: One ought to use excess to increase normality
 Everyone has excess of something. Whether it be experience, knowledge, material possessions, respect, leadership skills, or anything else; these elements (that can be distributed or removed at will) create a holder position which ought to be used to increase normality. The normality that is increased is not limited to the element (although that should be the priority), but can also include repercussions of holding the excess that can be distributed to others.
 
 I hope the premise of the system will dictate that this is both consistent and expected, but without it being exclusively stated one could point to the valid point that nothing is said about excess and what we ought to do with it, and then it would be ambiguous whether using it to harm others is something that ought not be done. Thus, inclusion of this point is necessary.
-
-<h5>7: One ought not to demand or strive to gain excess for one's legacy</h5>
-
-
+7: One ought not to demand or strive to gain excess for one's legacy
 This is another point expected to be controversial because of our natural perception bias and preservation of legacy. Elements we have personally normalized are not always categorized as a relative essential for a larger population. Similarly, elements that others have that we lack are - also - not always categorized as relative essentials. As such, we shouldn't demand or strive to gain something that will be excessive as we don't understand the experiences (which includes the needs) of others.
 
 Since this can be misconstrued, it is important to reiterate the following: having excess is a position.  According to previously stated values, this position deserves critique about the prerequisites or training needed to spread normality. To be clear as to what this means, holding excess is not deserved or part of an identity since - by definition - it can be given away. Therefore, if the person wants to keep the position while it exists, they must also abide by the expectation: they will strive to increase the normality of the population. This requires knowledge (which is gained by “training”) about other’s experiences which the holder’s initial perception bias may cause them to ignore. The holder ought to retain and reference and internalize this training.
@@ -938,22 +478,13 @@ Since this can be misconstrued, it is important to reiterate the following: havi
 Also, and this is vital, those without or in need are expected to express accurately what is needed to increase the normality of their population. This is necessary so the holder (through “training”) will know how to accurately increase normality from that population perspective (be it better communication or relative essentials).
 
 As an example: if only one dose of a cure is available in a population of 1000, but only one person is vulnerable to death due to the illness, it is the responsibility of the person to express that "life" will be normalized by their obtaining it and the training of the holder to know that it is their responsibility to get it to the person.
-
-<h5>8: One ought to instruct the population what they ought to and what they ought not to do.</h5>
-
-
+8: One ought to instruct the population what they ought to and what they ought not to do.
 Since this value system is - and always will be - in competition with other value systems, then the premise (normality needs to be normal for everyone) demands that it is important to confront those other value systems and see which premises are in conflict. While promotion and working beside other systems which hold similar values is appropriate, a critique of both systems where they disagree is still beneficial.
 
 This must never be done while increasing harm to the population. Currently and historically, examples can be seen where absolute essentials could not be distributed.  Whether through drought, famine, plague, or even something as simple as assault; the expectation to inform and expect others to abide by relative normality will ensure death for everyone, and that - practically - is an absurd request even if it is idealistically consistent.
-
-<h4>Practical Repercussions</h4>
-
-
+Practical Repercussions
 The hope is - by this point - the value system presented is clear enough to consider if not outright accepted. It is therefore negligent to hold back on some of the unexpected repercussions that need to be pointed out in case they were missed by the reader. Some have been hinted at but all need addressing to ensure that the scope is clearly understood.
-
-<h5>Rejection of Classic Rights</h5>
-
-
+Rejection of Classic Rights
 This is unfortunate, but crucial to address. Not all elements necessary to survival can be distributed.  Water - for example - may not be available for the population. In which case, the resulting competition that will result in acquiring the resources needed for a preservation of legacy will be inevitable, but not technically tragic. According to the system proposed, this struggle ought not happen. The points “excess ought not be demanded” and “excess ought to increase normality” would ideally subdue any turmoil.
 
 Ultimately, this is ignorant since it will contradict our assumptions of the axioms already established. The perception bias that "my legacy cannot be preserved" (even though the most optimal approach is taken) will always overwrite "ought". Expecting a perfect world without the ability to construct a legacy (which necessarily includes survival) being normalized is - put simply - impossible. In such a situation, the position of distributor of essentials should expect to always be critiqued and necessary to provide feedback for why decisions were made.
@@ -961,26 +492,17 @@ Ultimately, this is ignorant since it will contradict our assumptions of the axi
 Another practical example of this seeming contradiction is "self defense." If death is imminent or life is not assured, it is not an essential element within the population considered. It is therefore an "ought" to increase normality by providing an assurance of life using the least harmful method. If the least harm is removing one life so it can be guaranteed to the rest of the population, that is what ought to be done. The tragic portion is that it is rarely that simple and often alternatives can be taken, but it is unlikely that this will be realized at the time.
 
 Since this will practically make the value system at odds with the axioms provided, it is in the best interest of the system to acquire necessities to ensure legacies of the community can be constructed and preserved. It is only for the persons that have met these requirements - within the conversation considered - should be expected to follow relative normality at all.
-
-<h5>Temporary Arch and Essential Holding is Expected</h5>
-
-
+Temporary Arch and Essential Holding is Expected
 Arch (as defined by the holder of relative essentials that are not yet distributed) is inevitable either by natural inclination or by luck. (Please note that while something may be excess under one discussion, in others it will be a relative essential.) As already explained, it is expected that arch have the scope of distributing that which gives the arch authority. This will often increase the individual normality of the arch holder and this is why it is essential for the holder to be treated as a position instead of an identity. It must have strict limitations, including a mandatory separation from the position at a predetermined time and a clear scope on how they are to distribute normality. For this reason above most others, it is necessary to ensure that representation of different cultures has influence over the holder’s position to ensure the different legacies are being considered. It is vital that these stakeholders be inseparable from the comfort within the communities that have the most restricted internal normality.
 
 While optimal, the above will only apply to existing arch. Often a relative essential will be generated due to new information or technology acquired by an individual. At this point, the arch requirements will need to be applied retroactively. It is therefore necessary that the basic requirement of the holder (considering others as worth listening to and being respected) should be known and practiced by everyone that has achieved normality.  Without this practice, any spontaneous promotion to an arch holder will be a culture shock and preservation of legacy will reject the separation of identity and position.
-
-<h5>Changing the Conversation will Change the population</h5>
-
-
+Changing the Conversation will Change the population
 Within a small population, a relative essencial may not be the same as when discussing a larger population. This results in the requirement for distribution of relative essentials within a small community being ignored when shifting to a larger population, rendering the same elements as excess.
 
 Alternatively, relative essentials that can be distributed to the whole of humanity should not stop there. Normalization of life and health should include all the population, including non-human peoples. If an element of a population has an intent to preserve a legacy and can be interpreted as having perception bias, it is definitionally a person.
 
 While reducing the conversation to limit the population should never be used as an excuse to limit normality for smaller communities, it can be helpful to optimise the excess a community currently has. If this is done, then discussions can be constructed to ensure a total community’s excess is optimally distributed to increase normality within a smaller population. Although this can get into some tragic situations if it is already normalized elsewhere.
-
-<h5>Relative Essentials Are Not Strictly Material Objects</h5>
-
-
+Relative Essentials Are Not Strictly Material Objects
 While already identified, the extent of this claim needs to be examined. Explicitly stated, material analysis lacks the considerations needed to optimize society. Emotions such as “compassion”, “protection”, “respect” are also worth considering (when not doing harm). Consider for example emotional bullying:
 
 By definition, a group is withholding “respect”, “validation”, or “acceptance” from a person due to their own specific legacy. No material needs are being withheld or taken away, but harm is being done. These relative essentials can easily be granted. Not doing so will ensure they cannot be normalized anywhere in the community.
@@ -988,44 +510,32 @@ By definition, a group is withholding “respect”, “validation”, or “acc
 There is a critique to be had in this section that aligns with the paradox of tolerance. Put more simply: are you supposed to distribute “acceptance” to the exclusive thinkers? Under this system, the answer is “as long as the relative essencial is not doing harm”.  In this perspective, the potential harm done by not distributing “acceptance” will reduce the normality of “respected” that is expected for everyone else. In this sense - at worst - the situation is tragic because of a misunderstanding and the situation must be analyzed. At best, the exclusive thinker is identified as engaging in civil radicality and can be excluded while constantly educated as a holder should be.
 
 Either way, the exclusive thinker shouldn’t be individually blamed but instead the environment which led them to accept that legacy. If the exclusive thinker abandons the legacy and stops defending comfort that is hurting others (which would contradict them being an exclusive thinker), then the community should react accordingly.
-
-<h2>Ideal Society</h2>
-
-
-<span style="text-decoration:underline;">Relevant definitions</span>
-
-
-
-* Legacy: (Existential) motivator of self identity which can be used as a vehicle for immortality
-* Civil: inherent community approval
-* Radical: Motivating or acting in opposition to inherent community approval
-* Civil Radicality: expecting social critiques to be limited to civil action
-* Radical Civility: expecting a community to oppose inherent approval
-* Liberty: The ability to critique our own motivators and the truth of our perceived reality.
-* Alterable: in a variant state of being relative to the discussion
-* population: all objects (except for possibly a statistically insignificant set of outliers) in a system which are alterable
-* Person: a member of the population that fulfils the axioms for life
-* Element: non-person member of the population that can be added or removed by will
-* Absolute essential: an element that is required for a person to live
-* Excess: an element that is not an absolute essential lacking the capability to be distributed with all persons
-* Normality: the minimum expected state of all persons when excluding excess
-* Relative essential: an element that is required to gain normality
-* Harm: causing normality to be unobtainable
+Ideal Society
+Relevant definitions
+Legacy: (Existential) motivator of self identity which can be used as a vehicle for immortality
+Civil: inherent community approval
+Radical: Motivating or acting in opposition to inherent community approval
+Civil Radicality: expecting social critiques to be limited to civil action
+Radical Civility: expecting a community to oppose inherent approval
+Liberty: The ability to critique our own motivators and the truth of our perceived reality.
+Alterable: in a variant state of being relative to the discussion
+population: all objects (except for possibly a statistically insignificant set of outliers) in a system which are alterable
+Person: a member of the population that fulfils the axioms for life
+Element: non-person member of the population that can be added or removed by will
+Absolute essential: an element that is required for a person to live
+Excess: an element that is not an absolute essential lacking the capability to be distributed with all persons
+Normality: the minimum expected state of all persons when excluding excess
+Relative essential: an element that is required to gain normality
+Harm: causing normality to be unobtainable
 
 Now that the metric for optimization has been laid out, practical expectations will be considered. It is expected for readers to be extra critical from this point on to ensure that the perception bias of the author aligns with the points laid out above. In the event that a conclusion is reached that contradicts expectation or that a conclusion is expected but not expressed, it would be beneficial to reflect on why this happened and which assumptions caused the conflict.
-
-<h3>Normalization of Radical Civility</h3>
-
-
+Normalization of Radical Civility
 The guidelines laid out below will not assume that all needs can be met within a group. That in itself would assume that all communities have the same needs to begin with and would contradict the axiom of perception bias. As such “utopia” can never be fully realized. Any advocating for a stagnant “best” society is an appeal to a supreme civility which will inherently exclude others.
 
 For this reason civility must be rejected as a method of imposing normality. By definition, legacies are self promoting; therefore civility is the defense of a collection of legacies in spite of others. Using civility to delegitimize others without constructed consent is invalid (since it directly contradicts point 6 in the value system: ought to use excess to increase normality).  While there are valid uses for civil consent - which are listed in the next section - the demand for civil radicality ought to be fundamentally rejected allowing only radical civility to exist. The entirety of society ought to be constructed around the promotion of this ideal.
 
 It is also important to note that there may be gut reactions to what is promoted. Amplifying others can be seen as conflicting with the natural tendency of humanity via preservation of legacy, but this incorporates an unrecognized mythos: competition is necessary. This need for competition will occur in any non-egalitarian civility, otherwise it would advocate for everyone being promoted without bias. As an alternative, if competition is unneeded due to all absolute essentials being relative essentials (i.e. living in a post-"scarcity of needs" environment), then preservation of legacy is optimized when the disempowered in a community can be securely protected under the community's civility (i.e. radical civility is foundational).
-
-<h3>Expectations of Civil Consent and Propaganda</h3>
-
-
+Expectations of Civil Consent and Propaganda
 The only way for civil consent to be utilized under the authority of radical civility is to promote unestablished legacies while rejecting the infrastructure (eg. mythoi or virtues) that they align with. Recalling that these infrastructures are defenses of legacies and not legacies themselves, it ought be up to the constructed consent to determine which legacies can coexist within the current society and which fundamentally contradict. This of course takes a strong community consciousness in spite of praise or damnation that comes with civilities of the past.
 
 Two embedded viewpoints must be pointed out before we continue: 
@@ -1035,10 +545,7 @@ First - a hope: if mythoi are torn down then it is assumed that constructed cons
 Second - a warning: civility will always exist. Even if minimal, local communities cannot be stopped from protecting themselves and fighting for metaphysical resources (including absolute essentials) when lacking. Even when appealing to point 8 (promote the value system) and point 2 (critique situations), we should always employ point 1 (don’t critique people) since no one single accuser knows all the information. It should follow that in the ideal society there are institutional reminders that limiting individual legacies is exclusively the responsibility of constructed consent and the undercurrent of local civility should be rebuked when possible.
 
 Most of the following expectations will be fundamentally unrecognizable to how governments currently are implemented and ultimately the amount of power that comes with these prescriptions should be answerable to the community via unapologetic expectation for transparency and data driven honesty. Any and all evaluators - from media to united groups to individuals - ought to be given the means and expectation to verify the propaganda they are given (assuming it is not causing harm to the community) without recourse. The only reason these are considered “civil expectations” is due to the amount of effort and coordination that is needed to accurately provide the necessities listed.
-
-<h4>Relative Amount of Resources</h4>
-
-
+Relative Amount of Resources
 In order to allow constructed consent to be the dictating factor of society, there must be an ability to establish normality for a population as a baseline. In the same way, establishing normality relies on the ability to differentiate between relative essentials and excess. For that reason alone, communities must have accurate descriptions concerning the resources relative to the population. While it is easiest to identify the status of material resources, it would be assumed that identifying the distribution status of metaphysical resources (respect, community acceptance, ethical inclusion, etc) should also be attempted.
 
 Without this being reported for the entire community, normality can never be established beyond local knowledge (if it can be known at all). Lacking trust in this knowledge will lead to the combination of assumptions and apprehension of the future; necessitating competition at the expense of cooperation. Further, having segrigated normalities will ensure that communities will fracture when different ways of life are justified as appropriate and deserved - from solitude to slavery to excess. Therefore, a community cannot exist without a trusted normality that everyone in the community can achieve.
@@ -1046,10 +553,7 @@ Without this being reported for the entire community, normality can never be est
 To ensure that all unilateral trust is not without merit and can be verified by the community if in doubt; the production, logistics, means of distribution, and means of exchange must all be verifiably transparent. Further, a predefined benchmark - which undergoes mandatory regular review by the community for critique - should be the extent of which the reports ought to be condemned (lest excessive expectations can be used to promote individual legacy and point 7 is violated). So if the holder reports that an element can or cannot be distributed, the population can depend on the knowledge provided to indicate what ought to be expected or (alternately) to which community the conversation of distribution ought apply and why others were neglected.
 
 In spite of the optimal situation - i.e. the community appropriately distributing relative essentials in an efficient and effective manner - part of the reporting of elements should include redistributing empowerment for arch holders. No other entity in the community could verify this knowledge nor ensure that arch holders were restrained from institutionalizing themselves via manufactured limitations. In the event that an arch holder consistently neglects distribution to subnormal communities, it should be those neglected communities that are given the means to promote a new holder. Which brings the next point…
-
-<h4>Subculture Status</h4>
-
-
+Subculture Status
 Regular announcements need to be distributed about the status of different subgroups with the intent of identifying those that are subnormal or have excess. The categorization of the "subgroups" should not be stagnant, but statistically driven based on an "official" publicly scrutinized rubric that goes through regular reviews and is adjusted appropriately (as with the review of resource reporting). Any statistical outliers found either to have increased or decreased normality will be highlighted so constructed consent can be informed and can best figure out how to increase normality for the entire community.
 
 Those with excess will be expected to platform members identified living in the least comfort and normalize their voice - not by speaking over them - but by submitting to their narrative and normalizing their language (since it is only through that which their plight can be fully expressed). The more normalized the communication of subnormal communities becomes, the more they can be understood and the more their legacy construction can be amplified. The rubric for identifying these outliers ultimately needs to be accepted by the larger community which are - at the very least - represented by experts to ensure that exclusive or excessive communities do not end up being amplified. 
@@ -1059,10 +563,7 @@ The reason for this need is simple: subcommunities of civility will seek to beco
 In the event that local civilities cannot coexist in the same ideological space, it is important to identify shared legacies. The more that cooperation can be achieved between conflicting local civilities, the more the conflicting mythoi and structures will be forced to adapt to avoid conflict. For this reason, universal diplomacy and cooperation should be advocated for.
 
 Of course, this will only apply to the “citizens of radical civility”. There may be external civilities that either choose not to conform to radical civility or have yet to adopt it. While individuals can and should cooperate with these external groups, it is a responsibility of civility to inform the public what to expect and how to best interact with them. Therefore…
-
-<h4>External Expectations</h4>
-
-
+External Expectations
 Assuming that civility can appropriately manage the expectations of absolute essentials and the perception of others, it is assumed that constructed consent will best analyze how to optimize normality if left uninfluenced. For this reason, there is one last expectation of civility: protect the community from conflicting external civilities. It is not up to the institutionalized mythoi or virtues of the community to dictate which new legacies are conflicting, therefore - like all other expectations - the scope will be to strictly inform on the relationships of other civilities based on a predetermined rubric and to have a method laid out of how to defend if attacked (either physically or ideologically). Without this, outside civilities are empowered to influence the inner analysis, either by manipulation or force, to conform with their own metaphysical needs.
 
 While this cannot happen at the local level (since perception bias will cause them to neglect other subcommunities) it is necessary for individuals to report their own experiences. This will keep civility from becoming stagnant, ensure any historic civil mythoi can be deconstructed, and remind local civility holders that trust should not be betrayed lest their legacy become one of mistrust.
@@ -1072,17 +573,11 @@ While including new legacies should universally be promoted so that the liberty 
 While it is ideal to unite with these external communities and allow constructed consent to reestablish normality for everyone (hopefully - but not necessarily - through increasing it), the acceptance must always come from the community with a lower level of normality and submission from the higher. The more comfortable the community, the more stable, and - therefore - the more institutionalized their civility and mythos will be. This will often not be obvious since it is harder for the stable community to understand the needs of the subnormal and - like always - radical civilly ought to be universally employed.
 
 The product of any collaboration with an external community should always be considered excess so constructed consent is never manipulated into being dependent on an invasive legacy that aims to influence inherent civil consent. In this way, there will be more desire to construct a common non-harmful civility that both communities operate under which will - foundationally -  increase normality for everyone.
-
-<h3>Clashing Subcultures</h3>
-
-
+Clashing Subcultures
 Identifying civility optimization is relatively straightforward: provide information and an avenue for community organization if needed. Addressing public optimization will be a bit different since subcommunities all have internal struggles, changes of needs, unforeseen experiences, and so many other events that can manipulate legacy construction. The following, therefore, will not be a subscription based on needs, but on the empowerment of the most suppressed communities so that analysis via constructed consent will include as many as possible.
 
 As initially stated, it is assumed that once civility has been adequately suppressed from influencing constructed consent, an equilibrium of metaphysical security can be obtained for every covered legacy. Using this understanding, the clashing of subcultures will not be solved by promoting civil responses to disagreements, but the destruction of civil structures and mythoi that are initially the source of the radicality.
-
-<h4>Critiques of Civility</h4>
-
-
+Critiques of Civility
 Knowing which communities are the most subnormal is vital. For that reason communication within the community, especially those that share different legacies, needs to be both normalized and expected. The experiences of these communications should align with the expectations that are produced within civility. When they don't, it is important to express the radical critique thereby influencing constructed consent. While initially this critique of civility is necessarily based on anecdotal experiences and communal trust in civility will not be affected; if constructed consent is to remain the authority of the community, each individual should desire to prioritize appealing to the misrepresented subgroups directly so that the radical critique can become a radical consent. Multiple independent verifications via first hand experience of the misrepresentation is necessary for constructed consent to hold civility accountable and remove the holder if necessary.
 
 By extension, neglecting to voice a subnormal status will ensure that constructed consent cannot advocate for an appropriate corrective action. As stated initially, radical consent cannot be individualistic, and therefore necessitates community advocacy to be considered within the social analysis. Once normality has been established - it is vital for ALL people who live in subnormal conditions to have both the opportunity and ability to express their situation so that radical consent can grow.
@@ -1090,84 +585,55 @@ By extension, neglecting to voice a subnormal status will ensure that constructe
 Unlike the prescription of civility (which is to amplify knowledge and expectation of normality), it is the duty of the community to ensure civility will institutionalize as few mythoi as possible. With that in mind, civility ought always be rejected if a radical consent becomes known. This will not always result in constructed consent promoting the legacy living in subnormal conditions (there will always be legacies harmful to the particular community), but - without the chance to be evaluated - liberty will stagnate.
 
 Even though this is expected within radical civility, it is important to see continued justification for it.
-
-<h5>Holding Civility Accountable</h5>
-
-
+Holding Civility Accountable
 It is important to point out that scarcity of needs necessitates authority. The reasoning for this is built into what has already been discussed: scarce elements are definitionally excess even if they are universal essentials. Excess isn’t naturally deserved by anyone, so - without an authority to dictate civility and holders - people will acquire excess through competition. In that situation, survival will render constructed consent invalid since perception bias and preservation of legacy (the axioms of life discussed originally) are expected to dictate actions within a competitive environment. To put it more simply, the community would devolve into a competition for the excess element (ie life), which is definitionally a deathmatch. 
 
-To be clear, competition is a valid means of excess acquisition between communities or persons where - and this cannot be stressed enough - _normality includes survival_. It is up to communities to decide if the motivation, inspiration, and other virtues that competition leads to will benefit society and whether those benefits are unique to a competitive environment. It is important to note, if survival is normalized and everyone accepts that excess ought not be demanded then the competition is fundamentally voluntary and arch has little material power to influence the community. WIthout the ability to influence the constructed consent - there is no reason to view archy as a threat.
+To be clear, competition is a valid means of excess acquisition between communities or persons where - and this cannot be stressed enough - normality includes survival. It is up to communities to decide if the motivation, inspiration, and other virtues that competition leads to will benefit society and whether those benefits are unique to a competitive environment. It is important to note, if survival is normalized and everyone accepts that excess ought not be demanded then the competition is fundamentally voluntary and arch has little material power to influence the community. WIthout the ability to influence the constructed consent - there is no reason to view archy as a threat.
 
 Contrasting this, when survival cannot be distributed, if a community is to retain any cohesion, an agreed authority must exist to optimize and regulate distribution. As with all hierarchies though, in an ideal society the archy must exist to eliminate the need of it’s own position. Beyond - and often in spite of - the distribution of the scarcity in question, authorities will strive to institutionalize their own legacy, which is in contrast to point 7 above (one ought not strive for excess).
 
 Regardless of what ought to happen, it is ignorant to expect arch holders to deny their axiomatic driver (preservation of legacy). Therefore, once arch is acknowledged, it is important to establish how much of a dependency can be created by the archy. The bigger the dependency, the sooner the mandatory removal of the holder. It is not unreasonable for a community to change holders every few years. The more the holder is seen as necessary to the position, the more reason they have to be removed since they are institutionalizing themselves. This doesn’t mean that the new holder cannot utilize the old, but just that the ability to influence constructed consent must be negated as much as possible.
 
 Additionally, it is important to realize that - at the point of identification - the position (holder) is definitionally excess. In the same way that no one is singularly equipt to be a cook, no person is singularly equipt to be a holder. The best cooks train for years under other experts, but they aren’t afraid to use their own experience to create a better outcome; the same goes for holders. The position of holder should not be conflated with a person’s identity for the population or the holder themselves. If this is conflated then this will necessarily harm the community since any opposition will be seen as an attack and civil institutions and mythoi will be constructed. It is the community’s responsibility to reject this conflation and to demand the holder be removed due to lack of trust. 
-
-<h5>Representation and Partitioning Civility</h5>
-
-
+Representation and Partitioning Civility
 Due to the nature of civility, it is expected that the most influential historical legacies are going to have the most luxury and privilege. Rejecting this trend is as necessary as it is difficult. There will always be a desire to reference hyperbolic exceptional success stories from subnormal groups in order to individually blame subnormal communities for systemic civil failures. While completely in line with the expected response to an unaddressed civil mythos, these references are ridiculous since - by definition - outliers are not representative of those that are harmed. While every individual is accountable for their own influence and responsibility within constructed consent, many will still empower overlooked civility due to ignorance. Understanding this, we can see that it is necessary to systemically ensure the civil structures are explicitly limited.
 
 It may be redundant, but the emphasis is needed to ensure that the following point is justified: those in sub-normal conditions must have the most influence. Even the most egalitarian society will fall prey to protectionism and stagnation left to its own design. To offset that inertia directly, promotion of those which have the direct knowledge of radical critiques need to be prioritized. While excess ought not be demanded, it is part of radicality to promote representation that can correctly identify the changes needed to offset the civil harm and increase normality. This - fundamentally - is how radical civility and the systemic increase of normality is accomplished.
 
 While it is ultimately up to the community how to best implement this promotion of the subnormal, it is important to recognize the following: normality will be increased when those with the most influence have the motivation and interest to do so. The best way to ensure this is for those with influence and direct ability to make changes to be personally promoted when normality is increased. Also, representatives shouldn’t have large platforms; they should be dictated by constructed consent, not helping civility to institutionalize itself further. This leads us to the following suggestions:
 
-
-
-* Those that have a platform to influence constructed consent ought not be representatives.
-* Those that are representatives ought to live a life of normality without excess.
-* Those that live with substantial excess ought not have a platform which can influence constructed consent.
+Those that have a platform to influence constructed consent ought not be representatives.
+Those that are representatives ought to live a life of normality without excess.
+Those that live with substantial excess ought not have a platform which can influence constructed consent.
 
 The best indicator for the optimization of a community is how often representation will shift to align with the recommendations above. If normality is achieved by everyone then there will be no need to appeal to these restrictions since civility is trusted and holders are held accountable by the representatives that promote their community. Alternatively, If normality is not set or society has been divided fundamentally into different categories, then it will be impossible to abide by the recommendations at all (since civil “reality” will conflict with the virtues of radical civility). 
-
-<h3>Education</h3>
-
-
+Education
 It cannot be denied that the mythoi and civility of a community is promoted most in the youth. Indoctrination is unavoidable and undeniable. It creates an ideological direction that will take decades to overcome assuming that it can be at all. For this reason, cooperation with those of different communities and ability to question civility must be part of that indoctrination. Beyond encouraging the acceptance of others through education (which should be universally supported), any type of civility must be rejected when possible to undermine intentional bias. That said, there are specific topics that need attention to ensure that radical civility is ingrained into the worldview the children create (which is necessary via point 8: instruct the population).
-
-<h4>Language</h4>
-
-
+Language
 Conversational - Language is the only tool that grants the ability to differentiate others from our own existential selves, values, beliefs, plights, and anything else that gives our identity meaning. We cannot respect those as independent and equal that we cannot identify, so language is necessary for cooperation (as opposed to assimilation or rejection). The more language we have to identify differences, the more respect we can have for things that are not ourselves. The ability to communicate in as much detail and with as many concepts as we can capture, the better. It should not only be proposed that language be expanded during indoctrination, but also (using local and forgien texts) during the lifetime in which we are constructing our world view.
 
 Logic - The ability to reason should be treated as a language. Utilizing it as a way to experience the metaphysical should not be refined to a system of rules, but an exploration of the unknown systems to be discovered. All of practical mathematics or other rule based systems should be treated in this same way. These structured descriptions should be recognized as a fluid way of describing the world that may not accurately represent the way the world is, but instead extremely useful descriptions of metaphorical objects and supplemental precise explanations where conversational language fails.
-
-<h4>Epistemology</h4>
-
-
+Epistemology
 History - Narrative history is ripe with the potential for propaganda and for this reason it should be avoided. Instead of dictation of stories of great men and actions, there needs to be a more objective focus: how history was captured or discovered, what led to the narratives around our understanding, and the skepticisms that both came with it and were identified later. It may be questioned why the risk is worth it, but practical knowledge of the past is one of the best ways to understand how legacies can be tracked and how they can be expected to proceed.
 
 Analysis - Just as much as knowledge of the past is needed to understand reality, so is the ability to understand the situations that surround us. It is necessary to be proficient while constructing, consuming, and presenting statistics and reports (especially those that will be produced by civil sources) for the sake of critique and the ability to be well informed. Being both comfortable reading and skeptical of any lacking data is valuable for analyzing the reality around us through combatting the internalization of perception bias, propaganda, and general fiction.
 
 Critical Thought - While it's never possible to combat personal civility internally; being able to find evidence conflicting to one's own narrative, determine it valid, and critically utilize it to remove our own bias is as close as we can come. Without learning this skill, we are doomed to be trapped by the perception bias our beliefs create.
-
-<h4>Sociology </h4>
-
-
+Sociology 
 Social Expectations - In the same way that a community needs to have an understanding of other legacies, so do students. This includes their own community (spoken about without praise or promotion) as well as others (without unfounded criticism). Students should be trained with the ability to determine what a community values and how to identify the norms that are often assumed. Biology should also be expressed as a way of contrasting other animals to ourselves and an indication that analyzing biology/social processes requires an identification of conflict and the ability to dissociate.
 
 Religion - While religions should not be imposed nor treated as the single truth to follow, it is important to see how religion is reflected in culture. Since these structures tend to define knowledge and world views more than - arguably - any other institution, it is just as important to have an understanding of how they originated, what they believe, what caused them to succeed, and how culture affected them throughout their lifecycle.
 
 Morality - Similar to religion, the civil morality that has been institutionalized by different cultures throughout history is important to recognize to see how it helped to influence communities over time. Comparisons and contrasts of values can help to establish what causes some cultures to flourish and others to bring about internal and global conflict.
-
-<h4>Self Reflection</h4>
-
-
+Self Reflection
 Social Legacy Analysis - Understanding that persons are driven by legacy, it is vital to be able to decrypt the different levels of legacy influence that persons will encounter in their day to day lives. For the sake of increased ability to recognize and avoid civil entrapment as well as being able to identify the combinations of legacies that will create the “self” as opposed to “others”, it is important to learn to be both knowledgeable and critical of the legacies we are influenced by.
 
 Mental Health - Perception bias will always dictate that any given person is the most normal person that person can know. In fact, the only solid truth that any person will ever be able to depend on is “I am real”. For this reason it must be taught to reject this idea and treat yourself as atypical so that we can treat others as equals. This takes reflection and - more importantly - trust in multiple external evaluators. This trust must come from a place of basic training and the expectation to be able to be understood without judgement.
-
-<h4>Discovery</h4>
-
-
+Discovery
 A Posteriori - Our perspective on reality (like everything) is dependent on our perception bias, which makes it a delusion. Without proper focus and training, it is extremely easy to reject shared experiences that are in contrast with that delusion. Testing of shared experiences and the exploration of the non-delusional world must be promoted if perception bias is to be countered efficiently. This practical adjustment to our own constant delusions to help it align more with the delusion of others is practically useful and necessary for cooperation (as well as advancing the predictive and developmental knowledge that the community has).
 
 A priori - While practical critical evaluation using an A Posteriori method is necessary, it will also inevitably result in self contradictions. These contradictions on their own are not problematic and people tend to live with them constantly, but they are often used to protect perception bias that needs to be disregarded. Only through the assumption that reality is non-contradictory does any discovery or reflection have meaning. Indoctrination to this mindset (internal consistency is a “good”) is preferable to the alternative, since - without it - cooperation is meaningless and legacies cannot be preserved. Therefore, axiomatic systems - no matter how impractical - must be a topic of discovery to ensure that one is well versed in philosophical exploration.
-
-<h3>Overcoming Perception Bias </h3>
-
-
+Overcoming Perception Bias 
 The greatest hurdle for empowering an egalitarian society will always be combating the fear of domination from an outside force. Whether metaphysical resources are lost due to forced replacement or changed internally, the fear that legacies will be abandoned is ever present. It is nice to believe that the acceptance of radical civility would combat this fear (since civil critique leads to the normalization of metaphysical subjectification), but questioning the commitment to being protected by acceptance will always be an expected philosophical doubt.
 
 The reason this is fundamentally a challenge is the metaphysical resources that the legacies have become dependent on will be put at risk. Other civilities (that may not ensure as much protection) could become more influential. This “paradox of tolerance” must be recognized as a rejection of the fundamentals of legacy analysis operating under radical civility: all subservient civilities necessarily will be forced to adopt the metaphysical resources of the dominant civility. In the case of a society that promotes radical civility, all subservient civilities must adopt inclusion.
@@ -1179,78 +645,55 @@ Due to all this, it is a worthy - but ultimately impossible - endeavor to combat
 Through cooperation, the civil mythoi will adapt and the civil structures will be deconstructed. This will take time and the ability to relinquish the metaphysical needs will vary causing conflict, but this contrast of metaphysical resources can be separated from the civility that protects it. Through cooperation (whether operating under radical civility or not); civility becomes impotent, enemies become peers, and perception bias becomes less influential. 
 
 As a final reminder, it again must be reemphasized that - within a predefined conversation - those below the state of normality or that in which normality doesn’t include life cannot be expected to act in accordance with the value system proposed. The comfortable - and therefore stable - must alway succumb to the sub-normal (as long as no absolute essentials become excess) lest the subnormal become justifiably radical.
-
-<h2>Implementation</h2>
-
-
-<span style="text-decoration:underline;">Relevant definitions</span>
-
-
-
-* Legacy: motivator of the existential self identity which can be used as a vehicle for immortality
-* Civil: inherent community approval
-* Radical: Motivating or acting in opposition to inherent community approval
-* Civil Radicality: expecting social critiques to be limited to civil action
-* Radical Civility: expecting a community to oppose inherent approval
-* Liberty: The ability to critique our own motivators and the truth of our perceived reality.
-* Alterable: in a variant state of being relative to the discussion
-* population: all objects (except for possibly a statistically insignificant set of outliers) in a system which are alterable
-* Person: a member of the population that fulfils the axioms for life
-* Element: non-person member of the population that can be added or removed by will
-* Absolute essential: an element that is required for a person to live
-* Excess: an element that is not an absolute essential lacking the capability to be distributed with all persons
-* Normality: the minimum expected state of all persons when excluding excess
-* Harm: causing normality to be unobtainable
-* Tragic: increases both normality and harm
+Implementation
+Relevant definitions
+Legacy: motivator of the existential self identity which can be used as a vehicle for immortality
+Civil: inherent community approval
+Radical: Motivating or acting in opposition to inherent community approval
+Civil Radicality: expecting social critiques to be limited to civil action
+Radical Civility: expecting a community to oppose inherent approval
+Liberty: The ability to critique our own motivators and the truth of our perceived reality.
+Alterable: in a variant state of being relative to the discussion
+population: all objects (except for possibly a statistically insignificant set of outliers) in a system which are alterable
+Person: a member of the population that fulfils the axioms for life
+Element: non-person member of the population that can be added or removed by will
+Absolute essential: an element that is required for a person to live
+Excess: an element that is not an absolute essential lacking the capability to be distributed with all persons
+Normality: the minimum expected state of all persons when excluding excess
+Harm: causing normality to be unobtainable
+Tragic: increases both normality and harm
 
 First and foremost it needs to be established that not all communities can achieve the ideal above. While the prescriptions laid out below will benefit any society (under the values already stated) and it is my belief that there is no ceiling to how close a community can come to approaching the ideal described, this should happen ONLY by constructed consent. To claim that every community will optimally benefit in the same way would be falling prey to perception bias and would be hypocritical in the context of this thesis.
 
 With that out of the way, the following are suggestions as to how to adjust a society in the most organic way.
-
-<h3>Define the Conversation</h3>
-
-
+Define the Conversation
 The primary precondition to increasing social normality is to first identify the current state of that normality. Thus - according to the definition - the population and the conversation must be established both for the sake of internal understanding of values and needs in addition to the understanding of external communication and influence. To clarify further, if two people are conversing about two populations, a single normality cannot be established which will render any agreement impossible. For this reason, prior to any attempt at optimization, the community needs to be well defined.
 
 Due to the benefit of excluding a population so that normality can be increased for the rest, extra care should be made to ensure the conversation isn’t limited once established. While there are some that will feel compelled to abandon radical civility for more objectified metaphysics (thereby adopting an external conflicting civility); once a community has adopted the metaphysical dictation of radical civility, it would undermine the entire philosophy for it to be abandoned. It falls on the community consciousness to work with them and ensure that the local civilities can coexist, but the civil coverage should never be reduced.
 
 For example, a wealthy community can intentionally impoverish slaves while still considering the entire community very comfortable, but this is only done for justification. Additionally, this has the added effect of setting the impossible expectation that slaves can achieve a normality that cannot be distributed to them. It therefore stands that - instead of excluding the slave community - they must be included within the conversation initially (even if those who benefit from them will object due to their own exclusive civility) so that any difference in expectations between peers will become apparent and challenged.
-
-<h3>Build Community Consciousness</h3>
-
-
+Build Community Consciousness
 Once the population has been defined, it is vital to build an understanding of others on their terms. “On their own terms” does not mean that expertise or values should be discarded (even though those may play a role in unfair expectations), but instead to reject - as much as possible - any “personal civility” or “personal mythos” that has the potential of causing unintentional harm within the community. When everyone engages through a lens of radical civility, cooperation will lead to acceptance and community cohesion.
-
-<h4>Establish normality</h4>
-
-
+Establish normality
 While being ignorant of a subcommunity’s status, it is easy to assume what normality should be (which is used to justify both imperialism and oppression when left unaddressed). Initially, only universal plights should be acted on: material needs and knowledge which will support self preservation that can be gifted while other metaphysical needs remain unknown.
 
 It should be - nonetheless - anticipated, especially when historic civility necessitates a mythos of protectionism, that this course will be seen as a threat. Whether it be “immoral” dependencies (e.g. the exploitation of subcommunities) or exotic resources, if previous outside civilities overpowered the local metaphysics and attempted to subjectify them, any altruistic cooperation may be misidentified as a hostile attack on the community. Extending inclusion of these civilities into the established conversation will either result in conflict or - in some cases - empower harm. To reduce the former and avoid the latter, cooperation should always be promoted with the requirement of establishing normality to ensure that radical civility can guide the interaction. To accomplish this, any myths of inherent inequality should be disallowed during the cooperation and - additionally - ensuring that anyone expected to work more is educated on radical civility (both of these will be discussed more later). While cooperation may include aspects of the local exclusive civility, the promotion will draw attention to any inherent internal power dynamics within the endeavor (including the protectionist mythos) and increase any radicality when it applies.
 
 With the possible exception of taking up residency and being indoctrinated within the local civility, any outsider is subject to perception bias and can only know a limited amount of the plights and needs of another community. Even the most altruistic of invasive groups can be oppressive through ignorance. Understanding normality (both establishing and readjusting) should always take a primary focus within the conversation so knowing how to increase it can be organically optimized.
-
-<h4>External Civilities</h4>
-
-
+External Civilities
 For the sake of community identity, it is important to establish philosophical boundaries when a population refuses to be submissive to radical civility. In other words, no group - even one's own - can be required to restrict legacy acceptance except through their own community's constructed consent. For this reason, it is tragically sound to fear cooperation with communities that have an increased state of normality than one’s own. Cooperating on their terms will almost always have the effect of demanding their civility be respected to the harm of others (since their internal normality will be reduced if subnormal groups are promoted due to acceptance).
 
 When interacting, even in the case of devout advocates for radical civility, other civilities may satisfy an unmet metaphysical need producing sympathy and a radical critique. Individually this may not seem harmful, and - practically - may not be when considering the wider community, but the critique should be considered through the lens of constructed consent before that conclusion can be determined. Regardless - due to the inherent subjectivity of radical civility - any civil sympathies (e.g. mythoi or civil structures) that accompany the radical critique should be rejected entirely. For this reason it needs to be required that advocates of the community take mandatory breaks so they can evaluate if they are internalizing civil conflicts (either subtle or explicitly hostile) to others that are silent in the external community.
 
 There are instances when the internal community will generate an exclusive civility. When this happens (either through rejecting new knowledge, technological advances, or anything else), the defenders of limiting the allowable legacies will - by definition - no longer be participating in radical civility and therefore become self imposed ideological outcasts. While cooperation should still be promoted (to both expand mythos and undermine their desire for exclusion), they should be treated as any other civility that will cause harm by unintentionally (or - in nefarious situations - intentionally) invalidating portions of the population.
 
-<h4>Expand acceptability</h4>
-
-
+Expand acceptability
 Everything discussed so far will be a necessary hindrance to building community consciousness. From not being able to permanently pin down a normality, to being cautious of other civilities and the resulting rifts, a community can always find a reason not to reach out to others. Stagnation of a community is a safe way to build legacy and strengthen the civility needed for survival, but this will in turn objectify the community’s ideological boundaries to the point of rejecting others. While this does not necessarily contradict radical civility, since all radical voices within the ideological boundary can still be promoted, it is unlikely that consideration of new legacies will be considered within the constructed conversation. The fear associated with new potential threats will likely necessitate rejection and further strengthening of civility in light of the potential for harm. As such, the need to fight stagnation is always virtuous, even if - and especially if - one has to be radical to do so.
 
 There is a warning with continually expanding the conversation: forcing civil radicality onto a new resistant group fundamentally contradicts the theory and should be universally rejected. There will be an urge to argue that expanding the conversation and - by extension - adjusting normality to incorporate an excessive community is an "ought" according to the value system, but this is flawed. By definition, normality within an outgroup is unknowable since it lacks the ability to participate in constructed consent and negotiate the rubric establishing how “excess” is determined. While perception bias may dictate that there is no scenario in which the civility of that community necessitates a need for such excess to preserve legacies, only through cooperation can that be known.
 
 In summary, it is vital to always look for shared overlap among external legacies and one’s own civility instead of focusing on the need for defense. Like relatively close geographic allies sharing material influences, ideological descendants of the same civility will almost assuredly have shared legacies that can be appealed to. An argument for stagnation or forced inclusion will lead to an undermining of radical civility.
-
-<h3>Deconstruction of Civility</h3>
-
-
+Deconstruction of Civility
 After establishing the scope of a conversation and normality can be relatively established, it is important to reflect on the civilities involved to ensure all known legacies are included. Where they exist, exclusive civilities cannot simply be disregarded due to the influence and dependency that the peoples have internalized. While inertia is a force within constructed consent that requires cultural influence and time to alter, authorities (which include institutions) will seek to uphold the civil authority and stagnate any change.
 
 While many of these authorities are obvious, it is vital for the members of radical groups to identify and reject their specific representatives that are invalidating their plight in the general community. Due to perception bias, those protected by civility will promote any false representatives that support civil radicality, which is of course detrimental to the liberty of the exploited radicals. As a reminder, the scope of the conversation must dictate the narrative. The outright rejection of radical consent due to a single dissenting voice (even if it is a "representative") is harmful. This will further institutionalize the current subnormal plight being identified by the radical community as acceptable; artificially increasing normality and attempting to restrict the community. Whether it be through ignorance or an adjusted narrative, the civil conformity coming from the representative must be seen by the radical community as a declaration that they are no longer capable of accurately fulfilling their role. If constructed consent is to become empowered, the radical consent must be prioritized above these fallacious representatives and - as a community - they must be systematically opposed. Only by replacing them with someone more suitable (chosen explicitly by the radical community) can the radical critique be given a platform and heard. 
@@ -1258,10 +701,7 @@ While many of these authorities are obvious, it is vital for the members of radi
 In the same way civil radicality must be rejected by necessity, so must existing instances of radical civility be promoted. While civil authorities - by definition - cannot be radical, they can refine the boundaries of civility. Whether an increase of normality be promoted through: providing the status of their represented community, the advocacy of cooperation within conflicting communities, or bringing attention to growing radical consents; these reporting standards ought to be praised regardless of the civil source. 
 
 While the community will be tempted to fall prey to universal dependence on the authorities (leading to a willing acceptance of misrepresentation and a advocation of silence regarding civil failings), it must be remembered that representatives are the holders of archy (elements needed for distribution) and ought to be treated as such. It is therefore the responsibility of harmed groups to identify themselves within the broader community to both give validity to the civil reports and show contradicts when they arise. Regardless, universal promotion and universal hostility of civil representation is counter to the information that the constructed consent needs for analysis regarding any radical considerations and absolutes are just as harmful as silence.
-
-<h4>Deconstructing Mythoi</h4>
-
-
+Deconstructing Mythoi
 Where critique of civil constructors (i.e. authorities) is necessary to ensure normality is being increased within their represented group, they are easy to identify and relatively simple to change. Mythoi on the other hand are often synonymous with the community identity itself, so identifying them is only possible through contrast when that contrast exists at all. Hopefully through understanding of how embedded these narratives can be, it is transparent how influential they are. If not, consider this question: how does one acknowledge harm when that harm is synonymous with being moral?
 
 Cultural mythoi and the overarching tropes used to embed lessons into a community must be reflected on when identified, and no civility is excluded from this - especially one’s own. While they are expected to generally align with the broader community in terms of virtues and fears, the contrasts will provide insight into the (possibly historic) subconscious civility specific to the community it comes from. It is vital for these differences to be observed and discussed to see why the differences exist (or - optimistically - existed) - especially when educating/indoctrinating lest they become internalized. Only by making this identification can constructed consent become empowered.
@@ -1269,17 +709,11 @@ Cultural mythoi and the overarching tropes used to embed lessons into a communit
 It is also expected that these stories will be defended more than most other arbiters of civility. By their very nature they carry with them the integrity of the community that holds them. Understanding the appeal of the stories (from the hyperbolized conflicts that are overcome to the immortalized virtues declared through the material/ideological bastions the villain seeks to destroy), the subconscious objective reality which the mythoi intended to portray is a better representation of the community identity than the laws or philosophy that has been generated. For anyone unable to actualize the conflicting mythological differences (either due to community cohesion or existential answers) it will be impossible to partition them from their relative truth. For these, a carefully constructed alternative mythos is necessary.
 
 The need for careful construction when creating any alternative is due to three necessary traits: the inclusion of current local civility, the intentional and obvious change to the conflicting aspects, and - most importantly - an embedded self contradiction. The first point - which includes a sense of respect - is necessary for the new mythos's acceptance. The second is to introduce the necessary critique to the forefront of the community conversation. The last is to ensure an underlying critique of mythoi and the rejection of civility is always acknowledged.
-
-<h4>Defining Success</h4>
-
-
+Defining Success
 Up until this point, economics has not been a focus. The reason for this is simple: currency - in relation to the axioms of life that have been assumed - is not an influential force but simply another civil institution. While it is often necessary to be used as a standard metric surpassing geographical and resource diversification, wealth has no direct relation to the preservation of the existential self nor community consciousness. In this way, the economy is a farcical illusion of material empowerment with no ideological differences from the legacies it seeks to empower. Thus, treating fiscal gain as an exceptional form of success will be rejected.
 
 Instead the discussion of success - within current culture - will reflect the core of what people utilize money, power, fame, influence, or any other cultural currency for: the institutionalization of their own legacy often in spite of everyone else’s. Striving for this success is (I hope at this point) obviously flawed. If success is promoted culturally as a virtue, all constructed consent will be skewed to reflect the empowered legacies above all. Since promotion of one’s own legacy is axiomatic for life and will exist regardless of promotion, it is therefore a failure of any community to empower the fascistic desire to exclusively honor a single one. There is only one clear alternative for those that promote radical civility: to civilly redefine success to be “the amount that one increases normality within the greatest conversation imaginable”.
-
-<h3>Empowerment of Radical Consent</h3>
-
-
+Empowerment of Radical Consent
 While radical civility dictates that the institutional limitations of legacies be rejected, without an avenue for radical consent to be respected and heard, a limited civility is meaningless. This section will be a bit redundant in respect to the rest of this thesis, but the points will continue to be reiterated for the sake of both completeness and reinforcement.
 
 With the realization that the critiques within a community cannot be understood sufficiently through civil discourse (since any plight promoted through civility cannot - by definition - be radical), it is not enough to only listen to “official” or widespread platforms. Invalidation of any radical movement will inevitably cause a conflict and - by extension - diminish everything associated with community consciousness (e.g. a collaborating population or a common identification of normality). As such, radical identification, validation, and promotion is vital to ensure an empowered constructed consent.
@@ -1287,15 +721,9 @@ With the realization that the critiques within a community cannot be understood 
 This can be accomplished by either experience or narrative. Experience is necessarily internalized and thus is more optimal but it is also more practically demanding. Cooperation with radical communities should therefore be universally strived for when it can be accomplished. When not possible, there should still be an attempt to platform the radical consent, preferably through representation of a native voice. Even though the audience of the narrative will not be able to fully comprehend the local plight, providing identification of the raw civil critique with the untranslated codex can at least be established as existing if not more significantly understood.
 
 For those that support radical civility, it is the end goal to ensure that radical representation is institutionalized as much as possible. Empowering those of your community that are familiar with - preferably through personal experience - the plights and needs of subnormal conditions will promote normality shared by everyone. This may seem conflicting since civility cannot represent radicality, but this concept encapsulates exactly that which radical civility hopes to accomplish: to address the radical critique before it ever becomes a consenting population.
-
-<h3>Expansion of Constructed Consent</h3>
-
-
+Expansion of Constructed Consent
 Assuming that all the above is achieved (identifying the conversation, establishing a relatively stable normality through community consciousness, minimalizing civil oppression, and empowering the radical communities), the institutional support for the legacy preservation will have been demolished. Believing that this would cause the populace to partition into exclusive single legacies in spite of each other would be to reject the axiomatic assumption that life demands: preservation of legacy demands a community to be promoted. As such, it seems there is no alternative other than constructed consent to become empowered and to naturally thrive ensuring that the most inclusive set of legacies will be maintained.
-
-<h4>Fracture Avoidance</h4>
-
-
+Fracture Avoidance
 There will always be a threat of external forces attempting to overtake a weakened civility and dictate the terms of the constructed consent. This is true whether the authoritative power believes it is deserving of fealty or allegiance or - conversely - it is promoting the “will of the people”. Unlike civil consents - which can be manipulated and corrupted by charlatans and demagogues, a strong community consciousness must be dismantled before it can be effectively exploited. Attempting to undermine this practical medium of constructed consent (via institutionalizing mythoi, obscuring the conversation, or restricting acceptability) within local communities will shift the need for legacy preservation back to civility. Therefore, even under encroaching external civilities, the strength of radical civility comes from constant cooperation and acceptance between ideologically and materially different groups within the conversation. 
 
 Every syllable, every action, every presentation is a vote within the direct democracy that is society for the reality that you want to exist. The more we relinquish this responsibility to civility, the more we condemn our peers to servitude. If everyone in society accepts agency to a reasonable degree, then it is impossible for any civility to become divisive unless authorities resort to material harm (be it physical or metaphysical - which includes economic coercion).
@@ -1304,14 +732,11 @@ If this harm is ever used to divide a community, it is the responsibility of the
 
 This bears repeating, since it not only strengthens the existing oppressive civility, but also seeks to exclude legacies that are currently defended.
 
-**If this harm is ever used to divide a community, it is the responsibility of the entire community to defend itself lest material harm be normalized.**
-
-<h3>Simple Examples</h3>
-
-
+If this harm is ever used to divide a community, it is the responsibility of the entire community to defend itself lest material harm be normalized.
+Simple Examples
 Below are three simplified examples of how this praxis may be implemented. The first will address the case when normality is readjusted when new information is discovered. The last two will address how to react to new hostile civilities (subnormal and excessive). All will be simplified to only consider the inclusion of an additional street into an established community. Also the reader should not confuse the examples below as the only solution, but simply an example that likely will not work in all cases.
 
-<span style="text-decoration:underline;">Readjusting normality</span>
+Readjusting normality
 
 Consider the case that a family from the new street includes an unknown abusive relationship. It is a very real possibility that the abused will be ignorant of their situation or unable to speak about it, which is why cooperation with peoples beyond that of a representative should be the objective. Ideally the abuser would adjust to the pressures of the changing community and reflect the external promotion of those that need help; extending it to those that they previously abused. This should not be counted on though since the legacy of abuse has likely been institutionalized in the household as civil. The more likely scenario will be that the abuse is identified before the abuser succumbs to outside pressure and normality is redefined (via the community’s civil reports) to establish “safety” or “non-abuse” as excessive within the community consciousness.
 
@@ -1319,7 +744,7 @@ The systematic obligation to increase normality will dictate that the abused be 
 
 While this will cause a readjustment to the perceived normality of the population, it is a necessary aspect of civility to relay the information of the population so constructed consent can thrive. It should be noted that realigning the community’s understanding of excess will cause an (ignorant but expected) radical claim of reduced normality (aka harm). At this point, it is the community’s responsibility to evaluate the radical experiences in spite of the civil (historically established) mythos of normality. It is also expected that they realize this revelation within normality is not the fault of the civil holders for adjusting to previously unknown information, but - instead - the new advocate for radical civility should be praised for extending the community to include an overlooked subnormal voice. If radical civility is to thrive, such adjustments are natural and expected. If anyone rejects this realization via experience, their radical voice must be addressed as well to ensure that civility is not being manufactured or misrepresentative (in this case, the pushback would quickly fail). The truth of the situation is that correcting the faulty assumption of normality is not harmful but just a further understanding of the existing community. 
 
-<span style="text-decoration:underline;">Hostile subnormal inclusion</span>
+Hostile subnormal inclusion
 
 In this scenario, everyone on the newly included street knows about the abuse that is going on in one of the families and willfully overlooks it.  Whether each person approves or not, it is considered uncivil to even try to identify the problem with the abuse. There is a trade off here: on one hand, it is easy to identify what normality has become and - on the other - the institutionalized acceptance of the abuse is already set in and normality will be harder to increase. In a sense, this civil consent must be treated as radical and the abusive actions must be treated as tragic.
 
@@ -1327,151 +752,83 @@ With this in mind, the population should cooperate with the holders of the radic
 
 Any ambassadors should make it clear that - within any cooperation - all legacies should be respected. For those advocating for radical civility, the ambassador should be personally aligning with the civility of the other culture when possible, but must always make a point to explicitly acknowledge the differences in mythoi and promote where one civility is more inclusive even if it is not their own. As this cooperation persists, the incorporation of this community will no longer be hostile to radical consent and will demand the abused be promoted (for the same reasons as the previous scenario).
 
-<span style="text-decoration:underline;">Hostile excessive inclusion</span>
-
+Hostile excessive inclusion
 In this scenario, the additional street has a local normality that is a strict increase from one’s own. It must be recognized that to demand a broadening of their population is definitionally a demand to reduce their normality (which - when not chosen by local constructed consent - is harm). While the radically civil should strive to ensure this happens internally, the leverage is always on the side of the increased normality and - as such - any demand will be seen as oppression.
 
 It is suggested that cooperation still be attempted, but - since their civility likely demands fealty - the conversation and the resulting normality should encompass everyone involved in the cooperation. If one starts demanding excess (e.g. more resources or leisure time than the norm), then cooperation must end. Similar to the previous scenarios, advocates must do their best to remain a radical voice and represent the radical civility of the unheard population. By extension, radical plights within the new civility should attempt to be understood and promoted (as long as they aren’t generated from a civil perspective). But this interaction comes with an extra demand on those cooperating within the new environment: do not become expectant of the benefits that the heightened normality offers. These are - by definition - excessive within the greater community. Even though these may appear to give advantage to preserving one’s own legacy, restricting the considerations of the population will ultimately harm others.
 
 To be honest though, this will likely have little effect. The cooperation with an excessive community is negligible without the promotion and accountability of holders that radical civility demands. While a deconstruction of their civility and mythos is helpful, it is more productive to increase the radically civil expectation and - with it - the objectified metaphysics it protects. As time goes on, radical consent within external civilities will grow causing either an abandonment to a more free community, an oppressive backlash from civility, or - inevitably - a demand for radical civillity to be adopted. Regardless, cooperation with the new “street” will become more amenable over time.
-
-<h2>Anticipated Critiques</h2>
-
-
-<span style="text-decoration:underline;">Relevant definitions</span>
-
-
-
-* Legacy: motivator of the existential self identity which can be used as a vehicle for immortality
-* Civil: inherent community approval
-* Radical: Motivating or acting in opposition to inherent community approval
-* Civil Radicality: expecting social critiques to be limited to civil action
-* Radical Civility: expecting a community to oppose inherent approval
-* Liberty: The ability to critique our own motivators and the truth of our perceived reality.
-* Alterable: in a variant state of being relative to the discussion
-* population: all objects (except for possibly a statistically insignificant set of outliers) in a system which are alterable
-* Person: a member of the population that fulfils the axioms for life
-* Element: non-person member of the population that can be added or removed by will
-* Absolute essential: an element that is required for a person to live
-* Excess: an element that is not an absolute essential lacking the capability to be distributed with all persons
-* Normality: the minimum expected state of all persons when excluding excess
-* Harm: causing normality to be unobtainable
+Anticipated Critiques
+Relevant definitions
+Legacy: motivator of the existential self identity which can be used as a vehicle for immortality
+Civil: inherent community approval
+Radical: Motivating or acting in opposition to inherent community approval
+Civil Radicality: expecting social critiques to be limited to civil action
+Radical Civility: expecting a community to oppose inherent approval
+Liberty: The ability to critique our own motivators and the truth of our perceived reality.
+Alterable: in a variant state of being relative to the discussion
+population: all objects (except for possibly a statistically insignificant set of outliers) in a system which are alterable
+Person: a member of the population that fulfils the axioms for life
+Element: non-person member of the population that can be added or removed by will
+Absolute essential: an element that is required for a person to live
+Excess: an element that is not an absolute essential lacking the capability to be distributed with all persons
+Normality: the minimum expected state of all persons when excluding excess
+Harm: causing normality to be unobtainable
 
 In this section, expected push backs will be addressed from the aspect of different civilities that conflict with this thesis. While some are worth engaging in (because they are either based on ignorance or a common philosophical litmus test to judge systems by), others must simply be disregarded as axiomatically different or a hyperbolic situation which can make any system fail.
-
-<h3>Axioms/Value Collision</h3>
-
-
+Axioms/Value Collision
 Axiomatic differences are impossible to oppose. At best one can simply point out what the differences are and the resulting repercussions. What is harder is identifying the existence of differing axioms since most see no point in discussing “truth” that civility has embedded so severely that it has been objectified. While irritating, it is understandable that these remnant beliefs will be unquestionable due to the amount of mythos that have encrusted it through practicality. Most often the proposal that all truth is subject to perspective bias is easily dismissed due to "absurdism".
-
-<h4>Objective Virtues </h4>
-
-
+Objective Virtues 
 When rules - inherently constructed to empower a community - are presented as unbiased and foundational, it is expected that the community will internalize those rules. The more it could harm others, the more civility will attempt to objectify them to ensure there is no doubt of their inalienability. For this reason, there will always be a desire for many to take a practical stance on objective virtues - appealing to authorities to supply them through unquestionable divine providence so any harm that comes will not be their own fault but - instead - that of the "just" system. If the virtues are inconsistent (which is often the case with reactionary morality), that inconsistency needs to be pointed out, and hopefully an appeal to logic will be enough to sow doubt. If not, the best one can do is to determine where the values disagree with the 8 points of relative normality to see where there is any contradiction with "normality being normal". In the end, this can only be used to appeal to an open minded audience since one will rarely question their own “truth”.
-
-<h4>Civilly Radical</h4>
-
-
+Civilly Radical
 Unlike differences of morality, believing that civility or tradition should be promoted for its own sake cannot be reflected against morals since it is independent of them. The appeal to culture - be it the ambiguous and situational “will of the people” or the promotion of those that “deserve it” - is a valid interpretation of how legacy analysis can stabilize (albeit, not one that leads to a "free” society - as shown above). If a person chooses to prioritize perception bias over empathy, they have been convinced that legacy should only be achieved through dictation (instead of being preserved through cooperation). This immediate critique of radical civility and disregard of constructed consent unfortunately cannot be refuted except to appeal to the tautology "normality ought be normal". It can also be shown to be practically flawed by questioning if the “will of the people” might desire self optimization over dictation.
-
-<h3>Human nature\Rights</h3>
-
-
+Human nature\Rights
 Radical Civility has an underlying theme of rejecting the autonomy of the individual. If the decisions we make are the result of cultural legacies that are forcing themselves onto us, it cannot be known which of our choices (if any) have been formulated by our independent character. This will rub many the wrong way.
-
-<h4>Free will</h4>
-
-
+Free will
 While ultimately unknowable until we have the ability to revisit past events, many will hold on to the hope of free will for multiple different reasons. Whether it be a “need to blame” that comes with the responsibility of mistakes or simply a “pride of success”, many have an existential dependence for legacy preservation to be a construction of which they or others must take ownership. It is interesting in these cases to see if they disagree with the concept of determinism within self preservation (can they question their own desire to persist) and what insinuation that observation offers regarding the more general justification of agency. Once that is introduced, extending that concept to immortality via legacy will result in the conclusion that “free will” is at best ambiguous.
-
-<h4>Individualism</h4>
-
-
+Individualism
 Similar to free will, the need to believe that individual success and failure is deserved has no practical difference from the desire to reject normality within the broader population. Whether it be the need for having an internal self worth or a desire to feel superior to others' failings, individualism is a defense of personal empowerment at the expense of others. As such, that false relative empowerment needs to be pointed out. No action is a singularity, but - instead - part of a system. The claim that personal actions will have overbearing influence beyond all others is as misguided as the belief that a drop of water will cause a flood. Just as any single action has influence and can be a point of failure, all of them are. Once this is accepted, suggesting that promotion can be deserved for some but not others becomes invalid.
-
-<h4>Life, Liberty, and Land</h4>
-
-
+Life, Liberty, and Land
 While a solid attempt at establishing a primitive form of cultural expectations, the source of these human rights (the things that we deserve) are granted directly by a supernatural source, typically imbued by a Divine that is not empirically knowable. It is therefore suspicious - to say the least - when this claim originates from positions of comfort (as it almost always does). It has already been shown that preservation of comfort will drive people to justify their comfort using mythoi, so to claim that this belief is essential seems to lack self awareness. It becomes a bit more transparent when the argument is rephrased as “other’s rights end where my nose begins” (a common mantra for individualist freedom). This is a rejection that normality is a reflection of what a community can be and instead claims pre-determined baselines are necessary to establish what people deserve (regardless if it is achievable for everyone). If this is believed dogmatically, then all failings of others to achieve the dictated baseline will be justified through imagined plights or sins. It may be possible to show that these sins don’t (and shouldn’t) result in loss of rights or - alternatively - one could show that in a “sinless world” these graces of the Divine would still be the same as they are now: unequal. Fundamentally it contradicts the absolutism of the statement “normality should be normal”.
 
 The logic is unlikely to land on those that use this argument since this mythos is reactionary: it is a defence of current comfort instead of a direct critique on radical civility. So even if the claim of “human rights” is refuted, they would still believe their comfort is essentially deserved.
-
-<h4>Mob Mentality</h4>
-
-
+Mob Mentality
 The desire to believe that group consciousness will lead a group astray more often than one with direction is rooted in the concept of individual intelligence and rationality. If it is accepted that a collective is more analytical than a person, then much of the mythos behind the futuristic entrepreneur or the spontaneous genius driving progress would be undermined. When the issue of mob mentality is raised, it is important to show that optimization is not the same as universalization in legacy preservation so harmful civilities are rightfully rejected. Trust is put into the “mob” because no individual or group can account for the needs of everyone. It is therefore up to the rejected civility to either adapt to radical civility or establish a critique of an underlying civil legacy that people can empathize with; building radicality. Since all legacies can optimally coexist within radical civility, it is claimed - via legacy analysis - that non-exclusive civilities will be accepted to further objectify the community’s metaphysical resources. So mob mentality is not actually a critique of radical civility, but an argument for it: mobs that abandon constructed consent but act on the behest of civil dictations will cause harm.
 
 In truth, this critique is primarily used by the comfortable to ensure that their own civility will continue to be respected in spite of it being known to harm the rest of the community. With this in mind, the population being considered must remain stagnant (as opposed to being reduced to an ambiguous “them”) and the appeal must always be made to increasing normality (as defined by radical civility) for that set of people despite expectations of any single individual.
-
-<h3>Different Premises</h3>
-
-
+Different Premises
 There can be a rejection of legacy analysis based on a perception of how reality is structured. In other words, if someone has a fundamentally different belief about the metaphysical atoms of the universe, then legacies themselves could be dismissed. As with differing axioms, asserting the following foundations cannot be addressed directly since they fundamentally reject the language being used.
-
-<h4>Materialism</h4>
-
-
+Materialism
 If materialism is the driving force behind everything, then consciousness, philosophy, ideology and legacy are simply “sound and fury” not worth discussing. Even someone offering this critique is fundamentally contradicting their own assertion since the understanding of words will be relatively meaningless.
-
-<h4>Religion</h4>
-
-
+Religion
 Unless a person is willing to argue "free will" or "objective virtues", using a belief in a higher power as a critique is a distraction. While religion is an institution that necessitates both a civility and a mythos, the underlying critique will ultimately reference something else. Religion - as with any other civility - only contrasts radical civility if it is exclusive which is not a defining quality.
-
-<h3>Appeal to Practical Success</h3>
-
-
+Appeal to Practical Success
 While success is culturally determined, the historical mythoi surrounding power is hard to ignore. It will likely always be appealed to in some form or another, and conservatives - by definition - will always revert to it given the chance.
-
-<h4>Propaganda vs Reality vs Truth</h4>
-
-
+Propaganda vs Reality vs Truth
 The appeal to power or success is an illusion of civility meant to focus on the few to the detriment of the many.  Money, ownership, and deservedness are metaphysical addictions that are indistinguishable from reality itself for those that have grown up under their propaganda. Material dependency (especially those of absolute essentials) shouldn't be neglected, but influence should not be restricted to that consideration. The civilities and mythologies we allow to limit our realities will always be the ideological entrapments we find ourselves in. As such, critical thinking and appreciation of outside influences should be promoted within the broader population so they can decide on the most optimal method for community empowerment.
-
-<h3>Different Analyses</h3>
-
-
+Different Analyses
 A person can only know what is in the scope of their perception. Therefore, every form of analysis ought to be considered incomplete. It is important to recognize that all sound theories will be representing the same reality so - even if contrasting them draws focus to different conclusions and gaps are identified - they ought not contradict. With each additional system employed, a more clear prediction of an unaltered future can be determined along with identifying what - if any - actions are necessary for optimization of a metric.
-
-<h4>Material Analysis</h4>
-
-
+Material Analysis
 Under a Marxian framework of a materially driven culture, much of history can be justified and similar situations can be expected to reproduce. Although, there is the flaw of both projecting legacy and assuming a civility that cannot transfer to different communities. Both inferences will drive predictions to be more erroneous the further removed from the current outlook (assuming the right material focus was being considered to begin with). In short, as a way of being self fulfilling, material analysis will further institute civilities that the analysis will depend on (a possible example is “a need for material scarcity”) if exclusively applied.
 
-<h4>Consumerism</h4>
-
-
+Consumerism
 The dependence on the economy to preserve comfort has generated a need for constant competition. This aligns with historical power structures and the methods employed to keep community consciousness subdued. While many will argue that the purchase of products is - at a fundamental level - the natural way of life and has been adapting through the ages to become the promotive system we have today, it is important to reflect on what relations that directly has to the axioms of life initially declared: none.
 
 Within the fiction of a false material hierarchy, consumerism can be used as an anti-analysis to see what should be avoided. From institutionalizing comfort in spite of others suffering to the markets necessary for institutionalizing the economic mythos, all the monetary civil structures designed around disallowing normality can be identified. It can’t be denied that the system is soundly beneficial while distribution is deemed “untraditional”, the dependency of this analysis (as with material analysis above) depends on that which it critiques: in this case “fair exchange”. Therefore exclusively utilizing this contrast will also hinder the success of radical civility due to its need for fiscal dependency.
-
-<h3>Utility Monster</h3>
-
-
+Utility Monster
 The utility monster is a philosophical stress test to ensure that the worst representatives of a population will not break an economic system. While it is simultaneously reductive and enlightening, it also assumes that motivations for some people cannot be empathized with. For this reason using it as a critique - instead of simply a theoretical inquiry - is harmful for both the understanding of people and the viability of a system. That said, these topics will come up so they are worth addressing.
-
-<h4>Insanity (and other “scientific” exclusions)</h4>
-
-
+Insanity (and other “scientific” exclusions)
 Mental health in general is an experience that is easy to vilify because it is inherently unknowable to those that don’t witness or experience it. For this reason, using any form (especially those seen as dangerous to society) can be used as a boogeyman against egalitarianism. While neurodiversity is a challenge when establishing normality, so is every other social irregularity that a person is unfamiliar with. Biological differences are in this sense an excuse for not broadening the conversation to include such people and thus is a fundamental rejection of radical civility itself. In truth, neurodiversity - as with every other biologic difference - is best understood by accepting that it is exceptional to be completely “status quo” and these “outliers” ought to be treated as any group: with cooperation on their own terms to identify overlapping legacies.
 
-<h4>Fascism</h4>
-
-
+Fascism
 While “fascism” is typically a vague reference to “the harmful other”, within the realm of legacy analysis it will strictly mean “those that cannot work with others unless it promotes their individual legacy”. The use of “legacy” here is vital, because it is not a discussion about what is civil, but specifically a rejection of the independence of others unless they have assimilated to the fascist’s motivation. In their minds, this will always mean two things: the other (those that cannot promote their legacy) are harmful and - unfortunately - they will always be radically critical unless they have power (and then it is too late).
 
 Now that the discussion has been established, the critique it brings is thus: “radical civility will fundamentally undermine the typical defense against fascism: a strong civil foundation.” While fascism would heavily utilize the second axiom of life (perception bias), the critique neglects the first (preservation of legacy). To believe that a strong constructed consent will be manipulated to promote a hyper exclusive civility (even if it has the appearance of being justified) is to claim that individuals will find further promotion within a small community than a large one. Therefore the critique can be refined to: “specific metaphysical objectivity is more practical than the civil coverage.” While this is a difficult claim to refute since it is yet untested, it falls out from legacy analysis that the legacies incorporated in that civility will eventually be distorted to assimilate to the fascist legacy. Therefore the promotion of individual legacy for the fascist sympothizer will, optimistically, suffer the damnation of being conflated into an anti-fascist civil defense when it eventually fails or, pessimistically, be disregarded entirely within radical civility.
 
 Of course this is just a reason not to join any fascist civility, but the harm they might do is still a concern. For this it must be realized that radical civility (the institutionalization of promoting radical critiques) can be - and must be - objective. The only way that fascism is a threat is if its own civility can dominate others by either being more objective or partitioning the society. As shown in this thesis, promoting radicality will fundamentally render all civilities impotent and unify society. Therefore, under legacy analysis, radical civility is ironically the greatest method to combat the implementation and success of fascism. 
-
-<h3>Personal Hypocrisy</h3>
-
-
+Personal Hypocrisy
 Everyone is hypocritical to some degree. For this reason people ought not be critiqued, only situations ought to be, and we should all try to be more loyal to the consistency of our values (preferably radical civility via relative normality).
-
-<h2>Final Thoughts</h2>
-
-
+Final Thoughts
 You made it through! Thank you!
 
 I know this is not an easy read and the ideas are - as some have critiqued it - idiosyncratic or simply “too much”, but it really means a lot to me that you were willing to consider it in full. I truly believe that this can be used to make a beautiful world for everyone as long as we (our legacies) can get out of our (the community’s) own way. Even if you don’t believe it, even if you have critiques or doubts (which I would love for the community to discuss); I hope legacy analysis, relative normality, and radical civility have provided you with enough of a foundation so it can be used if needed.
@@ -1482,5 +839,4 @@ Just as a reminder: every action, every decision, every choice is a vote to make
 
 Thank you again, and as much as I take any and all responsibility for the flaws of this thesis there are some people I would like to thank for helping it be more readable and coherent. While they may not have agreed with me, they have my deepest gratitude for taking the time to help me get out of my own head. (And yes… it was worse before they provided feedback.)
 
-&lt;document is still under review… will update this later>
-
+<document is still under review… will update this later>
